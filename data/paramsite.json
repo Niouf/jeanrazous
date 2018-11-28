@@ -17,5 +17,6 @@
   "bloc_horaires_title2":"Consultations en couple",
   "bloc_horaires_content2":"<strong>Sur rendez-vous.</strong><br/>Avec l’analyse de complémentaire Karine Renou<br/>Sur rendez-vous du lundi au vendredi<br/>Adresse : 26 cours de la république villeurbanne 69100<br/>Tarifs : 70€ par personnes, durée 1h15",
   "analytics" : "UA-129827293-1",
-  "mapboxkey" : "pk.eyJ1IjoianJhem91cyIsImEiOiJjam9nMms4eDUwM3hmM3BzNnZpczRydXZlIn0.0cv_cyHvM4PTb81eHaFjRw"
+  "mapboxkey" : "pk.eyJ1IjoianJhem91cyIsImEiOiJjam9nMms4eDUwM3hmM3BzNnZpczRydXZlIn0.0cv_cyHvM4PTb81eHaFjRw",
+  "baseUrlImage": "https://res.cloudinary.com/dpjfqut00/"
 }

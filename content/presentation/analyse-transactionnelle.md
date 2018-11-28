@@ -1,9 +1,9 @@
 +++
 date = "2018-11-20T12:24:16+00:00"
-logo = "/uploads/at.jpg"
+logo = "/at.jpg"
 title = "Analyse Transactionnelle"
 longtitle=""
-type ="PageHome"
+type ="Presentation"
 weight = 1 
 description = "Mauris mattis odio id ligula elementum suscipit. Aliquam erat volutpat. Suspendisse non elit nec nisi pulvinar maximus."
 +++

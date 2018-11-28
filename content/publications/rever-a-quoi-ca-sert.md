@@ -1,6 +1,6 @@
 +++
 date = "2018-11-20T12:24:16+00:00"
-logo = "/uploads/rever.jpg"
+logo = "rever.jpg"
 title = "A quoi sert le rêve"
 description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin elementum cursus diam in mollis. Morbi vitae est mi. Fusce congue consequat enim at venenatis. Curabitur at posuere libero. Donec placerat tellus sit amet neque posuere pulvinar. In imperdiet hendrerit magna, eu rutrum nibh pharetra eu. Cras vel augue eget arcu fermentum pulvinar."
 +++
