@@ -1,12 +1,14 @@
 
 @font-face {
     font-family: "title1";
-    src: url("../../../fonts/elephant-2/Elephant-PersonalUse.ttf");
+	src: url("../../../fonts/elephant-2/Elephant-PersonalUse.ttf");
+	font-display: swap;
 }
 
 @font-face {
     font-family: "handwrite";
-    src: url("../../../fonts/bridget-script/Bridget Script.ttf");
+	src: url("../../../fonts/bridget-script/Bridget Script.ttf");
+	font-display: swap;
 }
 
 .titleSiteMenu{
@@ -34,7 +36,7 @@
 
 	.citation-article{
 		font-size:2.3em;
-		font-family:"handwrite";
+		font-family:"handwrite",Helvetica, Arial, sans-serif;
 		background-color:$bande-couleur-citation-article;
 		padding-top:1em;
 		padding-bottom:1em;
@@ -43,7 +45,7 @@
 		margin-top:1em;
 
 		.citation{
-			font-family:"handwrite";
+			font-family:"handwrite", Helvetica, Arial, sans-serif;
 			font-size:1.3em;
 			text-align:left;
 			&:before {content:"\201C"; left:0; top:0;}
@@ -92,7 +94,7 @@
 
 		.title-header-article{
 			font-size:3.3em;
-			font-family:"title1";
+			font-family:"title1", Helvetica, Arial, sans-serif;
 			text-align:center;
 			
 		}
@@ -217,7 +219,7 @@ section.bloc{
 	
 .section-citation{
 	.citation{
-		font-family:"handwrite";
+		font-family:"handwrite", Helvetica, Arial, sans-serif;
 		font-size:2.7em;
 		text-align:center;
 		&:before {content:"\201C"; left:0; top:0;}
@@ -241,11 +243,11 @@ section.bloc{
 
 h2{
 	font-size : 2em;
-	font-family:"title1";
+	font-family:"title1", Helvetica, Arial, sans-serif;
 }
 
 h3{
-	font-family:"title1";
+	font-family:"title1", Helvetica, Arial, sans-serif;
 }
 
 footer{
