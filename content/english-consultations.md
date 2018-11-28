@@ -1,6 +1,6 @@
 ---
 date : 2018-11-20T12:24:16+00:00
-logo : /uploads/colere.jpg
+logo : /colere.jpg
 title : English consultations
 longtitle : 
 description : Mauris mattis odio id ligula elementum suscipit. Aliquam erat volutpat. Suspendisse non elit nec nisi pulvinar maximus.
