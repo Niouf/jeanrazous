@@ -1,4 +1,4 @@
-baseURL = "https://psy-razous.com"
+baseURL = "https://quirky-archimedes-f0b2c0.netlify.com/"
 languageCode = "fr-FR"
 theme = "jeanrazous"
 [params]
