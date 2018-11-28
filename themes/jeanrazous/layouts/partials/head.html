@@ -1,0 +1,33 @@
+ 
+<link rel="stylesheet" href="{{ "/css/main/styles.css" | absURL }}">
+<script src='https://api.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.js'></script>
+<link href='https://api.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.css' rel='stylesheet' />
+
+
+<title>{{ $.Site.Params.title }}</title>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="{{ $.Site.Params.description }}">
+<meta name="author" content="Fabien Grignoux">
+
+
+<meta property="og:locale" content="fr_FR" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="{{ .Title }} - {{ $.Site.Params.title }}" />
+<meta property="og:description" content="{{ $.Site.Params.description }}" />
+<meta property="og:url" content="{{ $.Site.Params.baseUrl }}" />
+<meta property="og:site_name" content="{{ $.Site.Params.title}}" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="{{ $.Site.Params.description }}" />
+<meta name="twitter:title" content="{{ .Title }} - {{ $.Site.Params.title }}" />
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ $.Site.Data.paramsite.analytics }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '{{ $.Site.Data.paramsite.analytics }}');
+</script>

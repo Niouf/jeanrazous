@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+
+  <body class="has-navbar-fixed-top">
+
+    {{ partial "menu.html" .}}
+
+
+    <div class="container article">
+        <article>
+            <header>
+                <div class='top-article'>
+                    {{ if isset .Params "logo" }}
+                    <div class='logo-article'>
+                        <img class="img-fluid" src='{{ .Params.logo }}' alt="logo de l'article" />
+                    </div>
+                    {{ end }}
+
+                    <div class='columns header-article'>
+                        <div class='column is-12'>
+                            <h1 class='title-header-article'>
+                                {{ if (not (isset .Params "titlelong")) }}
+                                {{ .Title }}
+                                {{else}}
+                                {{ .Params.titlelong}}
+                                {{end}}
+                            </h1>
+                        </div>
+                    </div>
+                </div>
+            </header>
+
+
+            <div class='columns content-article'>
+                <div class='column is-offset-2 is-8'>
+                    {{ if isset .Params "description" }}
+                    <div class='description-article'>
+                        {{ .Params.description }}
+                    </div>
+                    {{ end }}
+                    
+                    <div class='content-article'>
+                         {{ .Content }}
+                    </div>
+                </div>
+            </div>
+
+            
+        </div>
+        
+    </article>
+    
+    {{ partial "footer.html" . }}
+  </body>
+
+</html> 
