@@ -59,7 +59,7 @@
                             <a href='{{ .RelPermalink }}'>
                                 <div class='publication'>
                                     <div class='publication-image'>
-                                        <img src='{{ .Params.logo }}' alt="Logo de l'article {{ .Title }}" />
+                                        <img src='{{ $.Site.Data.paramsite.baseUrlImage }}/w_600/{{ .Params.logo }}' alt="Logo de l'article {{ .Title }}" />
                                     </div>
                                     
                                     <div class='publication-titre'>
