@@ -58,12 +58,12 @@
 		</div>
 	</section>
 
-
+	{{ if len (where .Site.RegularPages "Type" "=" "publications") }}
 	<section class='bloc section-publication'>
 		<div class='container padding'>
 			<h2 class='title is-2'>Publications</h2>
 			<div class='columns'>
-				{{ range first 2 (where .Site.RegularPages "Type" "post").ByDate.Reverse }}
+				{{ range first 2 (where .Site.RegularPages "Type" "publications").ByDate.Reverse }}
 					<div class='column'>
 						<a href='{{ .RelPermalink }}'>
 							<div class='publication'>
@@ -79,8 +79,9 @@
 					</div>
 				{{ end }}	
 		</div>
-		<div><a href='./post' class="button">Voir toutes les publications</a></div>
+		<div><a href='./publications' class="button">Voir toutes les publications</a></div>
 	</section>
+	{{ end }}
 	
 	
 	<section class='section-map'>
