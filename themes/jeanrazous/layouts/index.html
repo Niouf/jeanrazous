@@ -14,7 +14,6 @@
 		<div class='background-home '>
 			<div class='container'>
 				<div class="columns is-vcentered">
-				  <!--<div class="column is-offset-2 is-3 has-text-centered"><img class='portrait' src='img/portrait-jean-razous.jpg' alt='portrait de Jean Razous'></div>-->
 				  <div class="home-presentation column has-text-centered is-offset-1 is-two-fifths">
 						<h1 class='title-home'>{{ $.Site.Data.paramsite.title }}</h1>
 						<p class='title-part1'>{{ $.Site.Data.paramsite.subtitle }}</p>
@@ -36,7 +35,8 @@
 					<div class="column">
 						<a href='{{ .RelPermalink }}'>
 							<div class='bloc-pratique'>
-								<img class='publication-image' src='{{ $.Site.Data.paramsite.baseUrlImage }}/w_300/{{ .Params.logo }}' alt="Logo de l'article {{ .Title }}" />
+									
+								<img class='publication-image lazy' src='{{ "placeholder.png" | absURL }}' data-src='{{ $.Site.Data.paramsite.baseUrlImage }}/w_300/{{ .Params.logo }}' alt="Logo de l'article {{ .Title }}" />
 								
 								<div class='bloc-texte'>
 									<h3 class='is-4'>{{ .Title }}</h3>
@@ -69,7 +69,7 @@
 						<a href='{{ .RelPermalink }}'>
 							<div class='publication'>
 								<div class='publication-image'>
-									<img src='{{ $.Site.Data.paramsite.baseUrlImage }}/w_400/{{ .Params.logo }}' alt="Logo de l'article {{ .Title }}" />
+									<img class='lazy' src='{{ "placeholder.png" | absURL }}' data-src='{{ $.Site.Data.paramsite.baseUrlImage }}/w_400/{{ .Params.logo }}' alt="Logo de l'article {{ .Title }}" />
 								</div>
 								
 								<div class='publication-titre'>
