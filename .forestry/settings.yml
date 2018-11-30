@@ -4,14 +4,6 @@ auto_deploy: false
 admin_path: "/admin"
 webhook_url: 
 sections:
-- type: document
-  path: data/paramsite.json
-  label: Configuration
-- type: directory
-  path: content/presentation
-  label: Presentation
-  create: all
-  match: "**/*"
 - type: directory
   path: content
   label: Pages
@@ -22,6 +14,14 @@ sections:
   label: Publications
   create: all
   match: "**/*"
+- type: directory
+  path: content/home
+  label: Home
+  create: all
+  match: "**/*"
+- type: document
+  path: data/paramsite.json
+  label: Configuration
 upload_dir: ''
 public_path: https://res.cloudinary.com/dpjfqut00/w_900
 front_matter_path: ''
