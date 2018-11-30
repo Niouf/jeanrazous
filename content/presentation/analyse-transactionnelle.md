@@ -1,7 +1,7 @@
 +++
 date = "2018-11-20T12:24:16+00:00"
 description = "Mauris mattis odio id ligula elementum suscipit. Aliquam erat volutpat. Suspendisse non elit nec nisi pulvinar maximus."
-logo = "https://res.cloudinary.com/dpjfqut00/v1543473133/DSCF8655.jpg"
+logo = "https://res.cloudinary.com/dpjfqut00/v1543574364/alvaro-reyes-507651-unsplash.jpg"
 longtitle = ""
 title = "Analyse Transactionnelle"
 type = "Presentation"
