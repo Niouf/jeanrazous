@@ -31,7 +31,7 @@
 			<h2 class='title is-2'>{{ $.Site.Data.paramsite.home_title_articles }}</h2>
 
 			<div class='columns'>
-				{{ range sort (where .Site.RegularPages "Type" "Presentation").ByWeight }}
+				{{ range sort (where .Site.RegularPages "Type" "Home").ByWeight }}
 					<div class="column">
 						<a href='{{ .RelPermalink }}'>
 							<div class='bloc-pratique'>
