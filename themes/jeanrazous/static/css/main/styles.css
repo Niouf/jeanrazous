@@ -11661,8 +11661,8 @@ a {
 }
 
 .text-article img {
-  margin-top: 0.7em;
-  margin-bottom: 0.7em;
+  padding-top: 0.7em;
+  padding-bottom: 0.7em;
 }
 
 .text-article h2 {
