@@ -22,8 +22,8 @@ sections:
   label: Publications
   create: all
   match: "**/*"
-upload_dir: ''
-public_path: https://res.cloudinary.com/dpjfqut00/w_800
+upload_dir: https://res.cloudinary.com/dpjfqut00/w_800
+public_path: https://res.cloudinary.com/dpjfqut00
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
