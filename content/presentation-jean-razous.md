@@ -1,6 +1,6 @@
 ---
 date: 2018-11-20 12:24:16 +0000
-logo: colere.jpg
+logo: "/v1543473131/IMG_20181018_180610.jpg"
 title: Qui suis-je ?
 longtitle: ''
 description: ''
@@ -11,7 +11,7 @@ menu:
 ---
 ## Mon parcours
 
-Quisque consequat molestie velit, ac eleifend leo commodo at. Mauris accumsan felis erat, a volutpat enim venenatis nec. Morbi bibendum lacus ligula, sed sollicitudin tortor aliquet sagittis. Donec at vestibulum nunc, eu fermentum eros. Sed semper ultricies varius. Curabitur ac tristique nibh, eu pulvinar dolor. Fusce mi orci, vehicula in risus id, sagittis ultricies urna. Duis eros justo, dapibus eget fermentum et, feugiat lobortis sem.
+![](/v1543473137/DSCF8675.jpg)Quisque consequat molestie velit, ac eleifend leo commodo at. Mauris accumsan felis erat, a volutpat enim venenatis nec. Morbi bibendum lacus ligula, sed sollicitudin tortor aliquet sagittis. Donec at vestibulum nunc, eu fermentum eros. Sed semper ultricies varius. Curabitur ac tristique nibh, eu pulvinar dolor. Fusce mi orci, vehicula in risus id, sagittis ultricies urna. Duis eros justo, dapibus eget fermentum et, feugiat lobortis sem.
 
 ## Ma découverte de la psychologie
 
