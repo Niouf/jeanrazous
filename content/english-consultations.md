@@ -1,6 +1,6 @@
 ---
 date: 2018-11-20 12:24:16 +0000
-logo: https://res.cloudinary.com/dpjfqut00/v1543574697/freestocks-org-65291-unsplash.jpg
+logo: v1543574697/freestocks-org-65291-unsplash.jpg
 title: English consultations
 longtitle: 
 description: Mauris mattis odio id ligula elementum suscipit. Aliquam erat volutpat.
