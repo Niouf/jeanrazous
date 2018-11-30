@@ -15,14 +15,12 @@
             <div class='top-article'>
                 {{ if isset .Params "logo" }}
                 <div class='logo-article'>
-                    <img 
-                        srcset="{{ $.Site.Data.paramsite.baseUrlImage }}/w_500/{{ .Params.logo }} 500w,
-                        {{ $.Site.Data.paramsite.baseUrlImage }}/w_710/{{ .Params.logo }} 710w,
-                        {{ $.Site.Data.paramsite.baseUrlImage }}/w_1000/{{ .Params.logo }} 1000w,
-                        {{ $.Site.Data.paramsite.baseUrlImage }}/w_1420/{{ .Params.logo }} 1420w"
-                        src="{{ $.Site.Data.paramsite.baseUrlImage  }}/w_500/{{ .Params.logo }}"
+                    <img
+                        class='lazy' 
+                        src='{{ "placeholder.png" | absURL }}'
+                        data-src="{{ .Params.logo }}"
                         alt=""
-                    />
+                     />
                 </div>
                 {{ end }}
 

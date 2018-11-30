@@ -11546,12 +11546,12 @@ footer .credits {
   margin-top: 3em;
   text-align: center;
   width: 100%;
-  color: #878484;
+  color: #b3b3b3;
   font-size: 0.8em;
 }
 
 footer .credits a {
-  color: #878484;
+  color: #b3b3b3;
 }
 
 .bloc-pratique {
@@ -11658,5 +11658,21 @@ a {
 
 .list-items {
   margin-top: 2em;
+}
+
+.text-article h2 {
+  margin-top: 1.4em;
+}
+
+.text-article h3 {
+  margin-top: 1.2em;
+}
+
+.text-article blockquote {
+  background: #e0e0e0;
+  font-style: italic;
+  margin: 1.7em;
+  font-size: 2em;
+  color: #919191;
 }
 /*# sourceMappingURL=styles.css.map */
