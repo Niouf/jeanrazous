@@ -1,0 +1,35 @@
+---
+label: Pages
+hide_body: false
+is_partial: false
+fields:
+- type: datetime
+  name: date
+  label: Date de publication
+- type: text
+  label: Titre
+  name: title
+  description: Titre court de la page
+  config:
+    required: true
+- type: text
+  default: ''
+  label: Titre long
+  name: longtitle
+  description: Titre long de la page
+- type: file
+  name: logo
+  label: Logo de l'article
+- type: textarea
+  name: description
+  label: Description de l'article
+  description: Résumé de l'article
+- type: textarea
+  name: notes
+  label: Note de bas de page
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+pages:
+- content/qui-suis-je.md
