@@ -400,6 +400,10 @@ a{
 }
 
 .text-article{
+	img{
+		margin-top:0.7em;
+		margin-bottom:0.7em;
+	}
 	h2{
 		margin-top:1.4em;
 	}
@@ -409,10 +413,17 @@ a{
 	}
 
 	blockquote{
-		background:#e0e0e0;
+		border-left:$couleur-princ 3px solid;
 		font-style:italic;
-		margin:1.7em;
+		margin-top:1em;
+		margin-bottom:1em;
+		padding-left:0.6em;
 		font-size:2em;
-		color:#919191
+		color:#757575;
+		p{
+			&:before {content:"\201C"; left:0; top:0;}
+			&:after {content:"\201D"; right:0; bottom:0;}
+		}
+
 	}
 }
