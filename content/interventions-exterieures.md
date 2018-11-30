@@ -1,6 +1,6 @@
 ---
 date: 2018-11-20 12:24:16 +0000
-logo: https://res.cloudinary.com/dpjfqut00/v1543473138/DSCF8700.jpg
+logo: https://res.cloudinary.com/dpjfqut00/w_800/v1543473138/DSCF8700.jpg
 title: Interventions extérieures
 description: Mauris mattis odio id ligula elementum suscipit. Aliquam erat volutpat.
   Suspendisse non elit nec nisi pulvinar maximus."
