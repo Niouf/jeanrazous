@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: config/paramsite.json
+  label: Configuration
+  match: "**/*"
 - type: directory
   path: content/presentation
   label: Presentation
