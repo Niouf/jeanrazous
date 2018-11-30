@@ -5,7 +5,7 @@ admin_path: "/admin"
 webhook_url: 
 sections:
 - type: document
-  path: config/paramsite.json
+  path: data/paramsite.json
   label: Configuration
 - type: directory
   path: content/presentation
