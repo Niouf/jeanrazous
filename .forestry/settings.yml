@@ -22,7 +22,7 @@ sections:
   label: Publications
   create: all
   match: "**/*"
-upload_dir: https://res.cloudinary.com/dpjfqut00
+upload_dir: ''
 public_path: https://res.cloudinary.com/dpjfqut00
 front_matter_path: https://res.cloudinary.com/dpjfqut00/w_800
 use_front_matter_path: false
