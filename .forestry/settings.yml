@@ -7,7 +7,6 @@ sections:
 - type: document
   path: config/paramsite.json
   label: Configuration
-  match: "**/*"
 - type: directory
   path: content/presentation
   label: Presentation
