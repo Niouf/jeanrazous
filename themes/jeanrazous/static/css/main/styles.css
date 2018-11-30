@@ -11669,8 +11669,25 @@ a {
   margin-top: 1.4em;
 }
 
+.text-article ul {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.text-article ul li {
+  margin-left: 1em;
+}
+
 .text-article h3 {
   margin-top: 1.2em;
+}
+
+.text-article a {
+  text-decoration: underline;
+}
+
+.text-article a:hover {
+  color: #727272;
 }
 
 .text-article blockquote {
