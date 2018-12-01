@@ -1,6 +1,6 @@
 +++
 date = "2018-11-20T12:24:16+00:00"
-description = "En psychologie, l'analyse transactionnelle, appelée aussi AT, est une théorie de la personnalité, des rapports sociaux1 et de la communication."
+description = "La psychothérapie corporelle envisage l’approche thérapeutique dans une double lecture : elle pratique conjointement l’écoute attentive de l’histoire du sujet et celle des manifestations corporelles associées. Elle guide ainsi deux cheminements parallèles dont la prise en compte simultanée est opérante. "
 logo = "v1543574406/william-farlow-319616-unsplash.jpg"
 longtitle = "Présentation de Jean Razous"
 title = "Psychothérapie corporelle"
