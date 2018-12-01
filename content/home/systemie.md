@@ -2,7 +2,7 @@
 date = "2018-11-20T12:24:16+00:00"
 description = "Les psychothérapies d'inspiration systémiques peuvent être individuelles ou familiales. La thérapie systémique individuelle (thérapie brève de Palo Alto, mise en forme par Paul Watzlawick, John Weakland, D. Fisch, etc.) diffère de la thérapie familiale dans le traitement."
 logo = "v1543574364/alvaro-reyes-507651-unsplash.jpg"
-longtitle = ""
+longtitle = "Thérapie Systémique"
 title = "Systémie"
 type = "Home"
 weight = 2
