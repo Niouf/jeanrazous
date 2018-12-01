@@ -17,8 +17,8 @@
                     {{ if isset .Params "logo" }}
                     <div class='logo-article'>
                         <img
-                            class='lazy' 
-                            src='{{ "placeholder.png" | absURL }}'
+                            class="lazy"
+                            src='{{ "img/placeholder.png" | absURL }}'
                             srcset="{{ $.Site.Data.paramsite.baseUrlImage }}w_800/{{ .Params.logo }} 800w,
                             {{ $.Site.Data.paramsite.baseUrlImage }}w_710/{{ .Params.logo }} 710w,
                             {{ $.Site.Data.paramsite.baseUrlImage }}w_1000/{{ .Params.logo }} 1000w,
