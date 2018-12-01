@@ -25,7 +25,7 @@
 	</section>
 
 
-
+	{{ if len (where .Site.RegularPages "Type" "=" "Home") }}
 	<section class='bloc section-pratique'>
 		<div class='container padding'>
 			<h2 class='title is-2'>{{ $.Site.Data.paramsite.home_title_articles }}</h2>
@@ -48,13 +48,14 @@
 			</div>
 		</div>
 	</section>
+	{{ end }}
 
 	{{if $.Site.Data.paramsite.citationHome }}
 	<section class='section-citation '>
 		<div class='container padding'>
 			<blockquote class='citation'>{{ $.Site.Data.paramsite.citationHome }}
 			</blockquote>
-			<cite><p class='citation-auteur'>{{ $.Site.Data.paramsite.citationHomeAuthor }}</p></cite>
+			<p class='citation-auteur'><cite >{{ $.Site.Data.paramsite.citationHomeAuthor }}</cite></p>
 		</div>
 	</section>
 	{{ end }}
@@ -79,15 +80,16 @@
 						</a>
 					</div>
 				{{ end }}	
+			</div>
+			<div><a href='./publications' class="button">Voir toutes les publications</a></div>
 		</div>
-		<div><a href='./publications' class="button">Voir toutes les publications</a></div>
 	</section>
 	{{ end }}
 	
 	
-	<section class='section-map'>
+	<div class='section-map'>
 		<div id='map' style='width: 100%; height: 400px;'></div>
-	</section>
+	</div>
 	
 	<section class='bloc section-pratique'>
 		<div class='container padding'>
