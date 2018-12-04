@@ -7,7 +7,7 @@ description: 'Psychothérapeute depuis XXXX, je me suis spécialisé dans plusie
   telles que l''Analyse Transactionnelle, la Systémie et la psychothérapie corporelle. '
 menu:
   main:
-    weight: 10
+    weight: 1
 
 ---
 ## Mon parcours

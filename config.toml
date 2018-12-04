@@ -2,6 +2,5 @@ baseURL = "https://quirky-archimedes-f0b2c0.netlify.com/"
 languageCode = "fr-FR"
 theme = "jeanrazous"
 [params]
-    title = "Jean Razous, cabinet de psychothérapies"
-    description="Jean razous, psychtopraticien en analyse transactionnelle, systémie et psychothérapie corporelle vous accueille à son cabinet de Lyon 6"
-
+description = "Jean razous, psychtopraticien en analyse transactionnelle, systémie et psychothérapie corporelle vous accueille à son cabinet de Lyon 6"
+title = "Jean Razous, cabinet de psychothérapies"
