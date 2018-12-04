@@ -1,6 +1,7 @@
 +++
 date = "2018-11-20T12:24:16+00:00"
 description = "Vous êtes rongé par la colère ? Vous perdez les pédales rapidement ? Vous élevez souvent le ton ou vous vous énervez souvent sur vos enfants ?"
+draft = true
 logo = "colere.jpg"
 title = "La gestion de la colere"
 
