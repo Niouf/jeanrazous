@@ -1,6 +1,7 @@
 +++
 date = "2018-11-20T12:24:16+00:00"
 description = " l'analyse transactionnelle, appelée aussi AT, est une théorie de la personnalité, des rapports sociaux et de la communication. "
+draft = true
 logo = "v1543574524/elijah-hiett-254705-unsplash.jpg"
 longtitle = ""
 title = "Analyse Transactionnelle"
