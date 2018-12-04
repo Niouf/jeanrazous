@@ -5,9 +5,6 @@ title: Pourquoi une thérapie
 longtitle: 
 description: Mauris mattis odio id ligula elementum suscipit. Aliquam erat volutpat.
   Suspendisse non elit nec nisi pulvinar maximus.
-menu:
-  main:
-    weight: 2
 
 ---
 Mauris consequat fermentum congue. Nam sapien erat, hendrerit vitae dignissim in, mollis non enim. Sed viverra metus est, et iaculis neque fermentum ac. Nunc in dictum tellus, sed fermentum velit. Maecenas neque enim, porttitor sed purus ac, fermentum lobortis augue. Vestibulum ornare, ante a aliquet lobortis, est ligula consectetur lectus, faucibus sagittis elit velit in leo. Nulla pretium, dui sed efficitur lacinia, urna mauris vestibulum ante, ut dapibus magna augue venenatis mauris. Curabitur aliquam posuere pellentesque. Nullam commodo condimentum tempus. Pellentesque nec vulputate diam, et condimentum mauris. Praesent quis turpis vel purus egestas molestie. In a sem augue. Duis purus elit, porttitor vestibulum aliquam nec, aliquam tempor dolor. Aliquam erat volutpat.

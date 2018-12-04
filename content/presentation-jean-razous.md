@@ -5,9 +5,6 @@ title: Qui suis-je ?
 longtitle: ''
 description: 'Psychothérapeute depuis XXXX, je me suis spécialisé dans plusieurs techniques
   telles que l''Analyse Transactionnelle, la Systémie et la psychothérapie corporelle. '
-menu:
-  main:
-    weight: 1
 
 ---
 ## Mon parcours
