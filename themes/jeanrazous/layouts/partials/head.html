@@ -1,4 +1,12 @@
- 
+ <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ $.Site.Data.paramsite.analytics }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '{{ $.Site.Data.paramsite.analytics }}');
+</script>
 
 
 
@@ -52,15 +60,7 @@
 {{end}}"
  />
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ $.Site.Data.paramsite.analytics }}"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', '{{ $.Site.Data.paramsite.analytics }}');
-</script>
 
 <link rel="apple-touch-icon" sizes="57x57" href="{{"/favicons" | absURL }}/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="{{"/favicons" | absURL }}/apple-icon-60x60.png">
