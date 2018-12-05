@@ -1,7 +1,6 @@
 +++
 date = "2018-11-20T12:24:16+00:00"
 description = "Dans cette lecture d'un l'article de Bill Cornell \"Opening to the vitality of unconscious experience\" (s'ouvrir à la vitalité de l'expérience inconsciente), ce dernier nous invite à repenser les trois degrés de jeux psychologiques tels qu'Eric Berne les avait conceptualisés, pour les repenser en terme de diagnostic  et donc d'intervention en psychothérapie. "
-draft = true
 logo = "/v1544002147/mike-szczepanski-383929-unsplash.jpg"
 title = "Les trois degrés : Un outil diagnostic précieux "
 
