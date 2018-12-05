@@ -11259,13 +11259,13 @@ label.panel-block:hover {
 
 @font-face {
   font-family: "title1";
-  src: url("./fonts/elephant-2/Elephant-PersonalUse.ttf");
+  src: url("../../../fonts/elephant-2/Elephant-PersonalUse.ttf");
   font-display: swap;
 }
 
 @font-face {
   font-family: "handwrite";
-  src: url("./fonts/bridget-script/Bridget Script.ttf");
+  src: url("../../../fonts/bridget-script/Bridget Script.ttf");
   font-display: swap;
 }
 
