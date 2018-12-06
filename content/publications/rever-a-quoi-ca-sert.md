@@ -20,12 +20,8 @@ Les jeux et scénarios de deuxième degré ont un but défensif qui opère en de
 
 Enfin au troisième degré de jeux et de scénario, Berne les situait _au niveau des tissus_, c’est à dire du corps plutôt que de l’esprit. C’est le domaine  de la mémoire implicite et procédurale, inconsciente, et des problématique archaïque d’attachement à la mère ou aux figures parentales précoces. Au niveau du troisième degré, vivre l’expérience avec nos patients précède et informe ce qui sera ensuite analysé et parlé. _Comment le  thérapeute se laisse vivre son contre-transfert et le comprend comme une communication inconsciente entre le patient et lui._ Le paperboard n’est plus d’aucune utilité.L’explication rationnelle est rejetée ou ignorée.
 
-    _
+**Diagnostic de troisième degré : un thérapeute utile est un thérapeute utilisé**
 
-**Diagnostic de troisième degré : un thérapeute utile est un thérapeute utilisé** 
-
-Ouvrir un espace thérapeutique _afin d’être disponible pour être utilisé par mes clients plutôt que leur être utile,_ tel est une autre façon d’encourager la vitalité du patient. 
+Ouvrir un espace thérapeutique _afin d’être disponible pour être utilisé par mes clients plutôt que leur être utile,_ tel est une autre façon d’encourager la vitalité du patient.
 
 Winnicott a étudié la capacité d’agressivité (saine) chez l’enfant et sa «motilité» à travers laquelle l’environnement est constamment découvert et redécouvert». Si l’environnement empiète trop sur la liberté de l’enfant de faire ses propres expériences, alors _«la personne va apprendre à exister en n’étant pas trouvée» (Winnicott)_  et présenter au monde une coquille pour préserver le noyau. C’est alors que «l’environnement thérapeutique devra être utilisé, testé et parfois attaqué, pour pouvoir être considéré comme fiable»  par le patient. Le thérapeute est utilisé comme un objet pour le développement intrapsychique du patient, un objet «présent et intéressé mais non intrusif et peu exigeant, (...) considéré comme fiable pour pouvoir aller petit à petit confronter le problème». _Ce n’est pas le contenu de ce que le client apporte qui nous informe du problème mais la façon dont ce contenu nous est adressé._ C’est par sa façon d’être dans sa relation avec le thérapeute que le client nous informe de son expérience inconsciente. Il n’a pas  d’autre moyens de la communiquer que par son corps et ses actes car les mots et la pensée pour le dire ne sont pas accessibles. Nous sommes là dans des scénarios organisés à un troisième degré.
-
-     
