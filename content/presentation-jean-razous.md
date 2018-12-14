@@ -11,3 +11,4 @@ menu:
     weight: 2
 
 ---
+Après un parcours d'enseignant dans l'éducation nationale, j'ai décidé de me consacrer à la psychothérapie. J'ai une formation en analyse transactionnelle (école AT Lyon), en contrat CTA. Je suis également formé à l'approche systémique et la psychothérapie psychocorporelle. 
