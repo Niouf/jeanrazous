@@ -7,6 +7,5 @@ menu:
   main:
     name: publication
     weight: 1
-draft: true
 
 ---
