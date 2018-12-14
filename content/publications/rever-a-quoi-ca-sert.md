@@ -1,13 +1,10 @@
 +++
 date = "2018-11-20T12:24:16+00:00"
-description = "Dans cette lecture de l'article de Bill Cornell \"Opening to the vitality of unconscious experience\" (s'ouvrir à la vitalité de l'expérience inconsciente), ce dernier nous invite à repenser les trois degrés de jeux psychologiques tels qu'Eric Berne les avait conceptualisés, pour les repenser en terme de diagnostic  et donc d'intervention en psychothérapie. "
+description = "Cet article s'inspire de l'article de Bill Cornell \"Opening to the vitality of unconscious experience\" (s'ouvrir à la vitalité de l'expérience inconsciente) dans lequel ce dernier nous invite à repenser les trois degrés de jeux psychologiques tels qu'Eric Berne les avait conceptualisés, pour les repenser en terme de diagnostic. "
 logo = "/v1544002147/mike-szczepanski-383929-unsplash.jpg"
 title = "Les trois degrés : Un outil diagnostic précieux "
 
 +++
-une lecture de l’article «Opening to the vitality of unconscious experience.» de Bill Cornell
-
-William (=Bill) F.  Cornell est un psychothérapeute américain, qui centre sa pratique et ses écrits sur les origines archaïques des difficultés amenées par les patients.
 
 Lorsque la thérapie échoue, certains thérapeutes mettent en avant les résistances et les mécanismes de défense du patient. Bill Cornell, comme beaucoup d’entre nous, avait été formé à cet idée rassurante que le thérapeute est celui qui sait, analyse et interprète  les difficultés du patient pour ensuite les partager avec lui, pour l’aider à comprendre et, parfois, changer. Cela peut fonctionner avec certains. Pas avec tous. Avec certains patients Bill Cornell explique combien ses interventions avait plus pour but de soulager ses propres anxiétés et son besoin de faire, vestiges d’un passé personnel  encore mal compris. La vitalité de certains patients est si enfouie qu’**il est important de savoir à quel niveau le thérapeute doit travailler.**
 
@@ -24,3 +21,5 @@ Enfin au troisième degré de jeux et de scénario, Berne les situait _au niveau
 Ouvrir un espace thérapeutique _afin d’être disponible pour être utilisé par mes clients plutôt que leur être utile,_ tel est une autre façon d’encourager la vitalité du patient.
 
 Winnicott a étudié la capacité d’agressivité (saine) chez l’enfant et sa «motilité» à travers laquelle l’environnement est constamment découvert et redécouvert». Si l’environnement empiète trop sur la liberté de l’enfant de faire ses propres expériences, alors _«la personne va apprendre à exister en n’étant pas trouvée» (Winnicott)_  et présenter au monde une coquille pour préserver le noyau. C’est alors que «l’environnement thérapeutique devra être utilisé, testé et parfois attaqué, pour pouvoir être considéré comme fiable»  par le patient. Le thérapeute est utilisé comme un objet pour le développement intrapsychique du patient, un objet «présent et intéressé mais non intrusif et peu exigeant, (...) considéré comme fiable pour pouvoir aller petit à petit confronter le problème». _Ce n’est pas le contenu de ce que le client apporte qui nous informe du problème mais la façon dont ce contenu nous est adressé._ C’est par sa façon d’être dans sa relation avec le thérapeute que le client nous informe de son expérience inconsciente. Il n’a pas  d’autre moyens de la communiquer que par son corps et ses actes car les mots et la pensée pour le dire ne sont pas accessibles. Nous sommes là dans des scénarios organisés à un troisième degré.
+
+William (=Bill) F.  Cornell est un psychothérapeute américain, qui centre sa pratique et ses écrits sur les origines archaïques des difficultés amenées par les patients.Jj
