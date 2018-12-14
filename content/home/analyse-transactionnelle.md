@@ -1,18 +1,23 @@
 +++
 date = "2018-11-20T12:24:16+00:00"
 description = " l'analyse transactionnelle, appelée aussi AT, est une théorie de la personnalité, des rapports sociaux et de la communication. "
-draft = true
-logo = "v1543574524/elijah-hiett-254705-unsplash.jpg"
+logo = "/v1544799291/Eric-Berne3.jpg"
 longtitle = ""
 title = "Analyse Transactionnelle"
 type = "Home"
 weight = 1
 
 +++
-Mauris consequat fermentum congue. Nam sapien erat, hendrerit vitae dignissim in, mollis non enim. Sed viverra metus est, et iaculis neque fermentum ac. Nunc in dictum tellus, sed fermentum velit. Maecenas neque enim, porttitor sed purus ac, fermentum lobortis augue. Vestibulum ornare, ante a aliquet lobortis, est ligula consectetur lectus, faucibus sagittis elit velit in leo. Nulla pretium, dui sed efficitur lacinia, urna mauris vestibulum ante, ut dapibus magna augue venenatis mauris. Curabitur aliquam posuere pellentesque. Nullam commodo condimentum tempus. Pellentesque nec vulputate diam, et condimentum mauris. Praesent quis turpis vel purus egestas molestie. In a sem augue. Duis purus elit, porttitor vestibulum aliquam nec, aliquam tempor dolor. Aliquam erat volutpat.
+L’Analyse transactionnelle : une introduction 	
 
-Morbi nisl felis, iaculis vitae ornare a, maximus nec sapien. Ut massa ipsum, luctus ac congue eget, faucibus nec massa. Suspendisse mauris justo, vehicula at erat sed, iaculis imperdiet nisl. Pellentesque et semper lorem, id molestie lorem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse in egestas metus, et dapibus elit. Nulla maximus, urna molestie tincidunt consectetur, turpis nisi luctus dui, vel euismod mauris turpis et justo. Sed in ligula magna. Suspendisse tincidunt, purus quis consequat elementum, felis massa tincidunt magna, ac congue ipsum ligula quis elit.
+L’analyse transactionnelle (AT) a été fondée il y a plus de soixante ans par Eric Berne,  un psychiatre canadien. Elle a démontré son efficacité dans des  domaines aussi variés que la psychothérapie, le coaching, l’éducation  ou le conseil,  des lieux aussi divers que les cabinets de consultation, les entreprises, les salles de classe et les hôpitaux, et des professions aussi différentes que psychothérapeutes, managers, enseignants ou infirmières. 
 
-Quisque consequat molestie velit, ac eleifend leo commodo at. Mauris accumsan felis erat, a volutpat enim venenatis nec. Morbi bibendum lacus ligula, sed sollicitudin tortor aliquet sagittis. Donec at vestibulum nunc, eu fermentum eros. Sed semper ultricies varius. Curabitur ac tristique nibh, eu pulvinar dolor. Fusce mi orci, vehicula in risus id, sagittis ultricies urna. Duis eros justo, dapibus eget fermentum et, feugiat lobortis sem.
+	Le modèle de personnalité crée par Berne est basé sur les trois **états du moi**  : Parent Adulte et Enfant (Voir **Etats du moi**) qui communiquent avec les états du moi des autres personnes sous forme de **transactions** (Voir **Transactions**) .L’analyse de ces transactions permet de prédire quelle tournure va prendre la communication engagée. 
 
-Ut sed sem elementum sapien ultrices rutrum eu quis purus. Phasellus eget risus sed diam aliquam efficitur. Proin ut nisi malesuada, tincidunt quam quis, ultricies erat. Curabitur non consectetur dui, quis pharetra urna. Integer feugiat faucibus mi, lacinia placerat leo rutrum et. Vivamus porta varius quam, semper congue massa feugiat id. Proin ac ipsum ut libero rutrum congue quis non tellus. Maecenas a bibendum mi. Morbi aliquam urna ac finibus auctor. Quisque sit amet efficitur massa. Cras ut imperdiet sapien. Pellentesque sed dolor nunc.
+	L’AT part du principe que les êtres humains écrivent le **scénario** de leur propre histoire dès le début de leur vie (Voir **Scénario**). Ce scénario contient les prédispositions innées de chacun, toutes ses expériences de vie, ou encore les messages que l’enfant a reçu de ceux qui se sont occupé de lui. Dans la vie quotidienne le scénario est mis en évidence dans les **jeux psychologiques** que les personnes jouent. (Voir **Jeux psychologiques**). Avec l’aide de l’AT les gens deviennent plus conscients des éléments sains contenus dans leur scénario  de vie. Ils peuvent alors s’appuyer dessus pour changer les parties plus limitantes de ce dernier.
+
+	L’AT fait partie des psychologies humanistes : la conscience , le libre arbitre ou la réalisation de soi en sont les fondements. Le mouvement humaniste était une réponse, d’un côté, à  la prédominance de la psychanalyse qui, à l’époque, considérait l’individu comme un être déterminé par ses pulsions internes, et d’un autre côté, au béhaviourisme qui ne voyait l’individu que comme une machine dont seul le comportement était objet d’étude. Or pour l’AT le développement de l’individu  est un des aspects essentiels de la nature humaine. L’AT prend donc en compte à la fois l’histoire des gens, leur monde intérieur de ressentis, pulsions et croyances, ainsi que leurs comportements pour les aider à atteindre ce qui est important pour eux. Les deux modèles d’**état du moi** (Voir **Etats du moi**) sont un bon exemple de l’articulation du passé et du présent, et de la complexité qui agit tout être humain. 
+
+	Sur ce site vous pourrez trouver à mesure de leur publication, les différents concepts évoqués plus haut ainsi que les drivers, les comportements de passivité, le concept de symbiose et les signes de reconnaissance. 
+
+Pour finir il me semble important de signaler que l’approche systémique qui est la mienne, englobe et enrichit l’utilisation que je fais de l’AT. (Voir Approche Systémique). De même L’approche psychocorporelle que j’utilise est enrichie par, et enrichit l’AT. (Voir psychothérapie psycho corporelle)
