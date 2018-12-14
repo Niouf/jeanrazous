@@ -9,6 +9,5 @@ menu:
   main:
     name: qui suis-je?
     weight: 2
-draft: true
 
 ---
