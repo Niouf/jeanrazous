@@ -5,7 +5,6 @@ logo = "/v1544002147/mike-szczepanski-383929-unsplash.jpg"
 title = "Les trois degrés : Un outil diagnostic précieux "
 
 +++
-
 Lorsque la thérapie échoue, certains thérapeutes mettent en avant les résistances et les mécanismes de défense du patient. Bill Cornell, comme beaucoup d’entre nous, avait été formé à cet idée rassurante que le thérapeute est celui qui sait, analyse et interprète  les difficultés du patient pour ensuite les partager avec lui, pour l’aider à comprendre et, parfois, changer. Cela peut fonctionner avec certains. Pas avec tous. Avec certains patients Bill Cornell explique combien ses interventions avait plus pour but de soulager ses propres anxiétés et son besoin de faire, vestiges d’un passé personnel  encore mal compris. La vitalité de certains patients est si enfouie qu’**il est important de savoir à quel niveau le thérapeute doit travailler.**
 
 **Les trois degrés : un outil diagnostic**
