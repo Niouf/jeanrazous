@@ -15,7 +15,6 @@
             <header>
                 <div class='top-article'>
                     {{ if isset .Params "logo" }}
-                    {{ with .Params "logo" }}
                     <div class='logo-article'>
                         <img
                             class="lazy"
@@ -29,7 +28,6 @@
                             />
 
                     </div>
-                    {{ end }}
                     {{ end }}
 
                     <div class='columns header-article'>
