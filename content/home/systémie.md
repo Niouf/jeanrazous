@@ -1,7 +1,6 @@
 +++
 date = "2018-12-18T14:25:26+01:00"
 description = "L'approche systémique que j'utilise est,  entre autre,  influencée par François Balta et Mony Elkaïm. "
-draft = true
 logo = "/v1544801898/sam-erwin-474207-unsplash.jpg"
 longtitle = "Approche Systémique"
 notes = ""
