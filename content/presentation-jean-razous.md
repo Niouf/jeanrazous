@@ -1,6 +1,5 @@
 ---
 date: 2018-11-20 12:24:16 +0000
-logo: ''
 title: Qui suis-je ?
 longtitle: ''
 description: Après un parcours d'enseignant dans l'éducation nationale, j'ai décidé
