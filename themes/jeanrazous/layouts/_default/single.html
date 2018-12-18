@@ -16,7 +16,6 @@
                 <div class='top-article'>
                     {{ $logo := len .Params "logo" }}
                     {{ if gt $logo 0 }} 
-                    {{ if (isset .Params "logo") }}
                     <div class='logo-article'>
                         <img
                             class="lazy"
