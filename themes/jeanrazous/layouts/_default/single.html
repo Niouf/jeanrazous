@@ -14,7 +14,7 @@
         <article>
             <header>
                 <div class='top-article'>
-                    {{ if isset .Params "logo" }}
+                    {{ with .Params "logo" }}
                     <div class='logo-article'>
                         <img
                             class="lazy"
