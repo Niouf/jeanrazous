@@ -1,6 +1,26 @@
 +++
 date = "2018-12-18T14:18:19+01:00"
-draft = true
-title = "les-trois-degres-outil-diagnostic"
+description = "Cet article s'inspire de l'article de Bill Cornell \"Opening to the vitality of unconscious experience\" (s'ouvrir à la vitalité de l'expérience inconsciente) dans lequel ce dernier nous invite à repenser les trois degrés de jeux psychologiques tels qu'Eric Berne les avait conceptualisés, pour les repenser en terme de diagnostic."
+logo = "/v1544002147/mike-szczepanski-383929-unsplash.jpg"
+longtitle = ""
+notes = ""
+title = "Les trois degrés : Un outil diagnostic précieux "
 
 +++
+Lorsque la thérapie échoue, certains thérapeutes mettent en avant les résistances et les mécanismes de défense du patient. Bill Cornell, comme beaucoup d’entre nous, avait été formé à cet idée rassurante que le thérapeute est celui qui sait, analyse et interprète  les difficultés du patient pour ensuite les partager avec lui, pour l’aider à comprendre et, parfois, changer. Cela peut fonctionner avec certains. Pas avec tous. Avec certains patients Bill Cornell explique combien ses interventions avait plus pour but de soulager ses propres anxiétés et son besoin de faire, vestiges d’un passé personnel  encore mal compris. La vitalité de certains patients est si enfouie qu’**il est important de savoir à quel niveau le thérapeute doit travailler.**
+
+**Les trois degrés : un outil diagnostic**
+
+Les mécanismes de défense interpersonnel et intrapsychiques de certains patients sont «raisonnablement disponibles à une pensée consciente et à un changement possible grâce à des interventions et des compréhensions cognitives». Autrement dit  nous sommes là dans ce qu’on appelle les approches cognitivo-comportementales, où des interprétations et des explications pourront suffire pour amener à des prises de conscience. Ces clients sont pris dans un scénario de **premier degré.** Eric Berne parlait de jeu psychologique de premier degré, dont la fonction première était sociale, c’est à dire de rendre les relations plus prévisibles. Bill Cornell a étendu ce concept au delà des jeux, au scénario. _En langage AT, le patient a un état du moi Adulte raisonnablement solide et opérationnel, le thérapeute peut s’adresser à lui en s’adressant en priorité à sa pensée logique et consciente._ Le paperboard et ses schémas aux trois ronds  (états du moi) et au triangle (de Karpman) peut alors être pertinent.
+
+Les jeux et scénarios de deuxième degré ont un but défensif qui opère en dehors de tout contrôle et pensée consciente._ La fonction  est davantage psychologique/intrapsychique que  relationnelle. C’est moins le patient en relation avec l’autre que le patient en relation avec lui même et ses propres conflits internes.  Ces patients sont moins sensibles à des interventions uniquement cognitives : en langage AT leur état du moi Adulte est plus envahi par l’état du moi Enfant ou Parent, voire les deux,  qu’au premier degré. On pourrait dire que les problématiques sont plus anciennes, et ont une part émotionnelle plus envahissante même si la pensée logique est encore atteignable. Donner une voix à ces émotions, ou,  comme l’AT le dirait, à l’Enfant sera nécessaire.
+
+Enfin au troisième degré de jeux et de scénario, Berne les situait _au niveau des tissus_, c’est à dire du corps plutôt que de l’esprit. C’est le domaine  de la mémoire implicite et procédurale, inconsciente, et des problématique archaïque d’attachement à la mère ou aux figures parentales précoces. Au niveau du troisième degré, vivre l’expérience avec nos patients précède et informe ce qui sera ensuite analysé et parlé. _Comment le  thérapeute se laisse vivre son contre-transfert et le comprend comme une communication inconsciente entre le patient et lui._ Le paperboard n’est plus d’aucune utilité.L’explication rationnelle est rejetée ou ignorée.
+
+**Diagnostic de troisième degré : un thérapeute utile est un thérapeute utilisé**
+
+Ouvrir un espace thérapeutique _afin d’être disponible pour être utilisé par mes clients plutôt que leur être utile,_ tel est une autre façon d’encourager la vitalité du patient.
+
+Winnicott a étudié la capacité d’agressivité (saine) chez l’enfant et sa «motilité» à travers laquelle l’environnement est constamment découvert et redécouvert». Si l’environnement empiète trop sur la liberté de l’enfant de faire ses propres expériences, alors _«la personne va apprendre à exister en n’étant pas trouvée» (Winnicott)_  et présenter au monde une coquille pour préserver le noyau. C’est alors que «l’environnement thérapeutique devra être utilisé, testé et parfois attaqué, pour pouvoir être considéré comme fiable»  par le patient. Le thérapeute est utilisé comme un objet pour le développement intrapsychique du patient, un objet «présent et intéressé mais non intrusif et peu exigeant, (...) considéré comme fiable pour pouvoir aller petit à petit confronter le problème». _Ce n’est pas le contenu de ce que le client apporte qui nous informe du problème mais la façon dont ce contenu nous est adressé._ C’est par sa façon d’être dans sa relation avec le thérapeute que le client nous informe de son expérience inconsciente. Il n’a pas  d’autre moyens de la communiquer que par son corps et ses actes car les mots et la pensée pour le dire ne sont pas accessibles. Nous sommes là dans des scénarios organisés à un troisième degré.
+
+William (=Bill) F.  Cornell est un psychothérapeute américain, qui centre sa pratique et ses écrits sur les origines archaïques des difficultés amenées par les patients.Jj
