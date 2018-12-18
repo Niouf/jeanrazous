@@ -25,7 +25,7 @@
 	</section>
 
 
-	{{ if len (where .Site.RegularPages "Type" "=" "Home") }}
+	{{ if len (where .Pages "File.Dir" "in" "/home/") }}
 	<section class='bloc section-pratique'>
 		<div class='container padding'>
 			<h2 class='title is-2'>{{ $.Site.Data.paramsite.home_title_articles }}</h2>
