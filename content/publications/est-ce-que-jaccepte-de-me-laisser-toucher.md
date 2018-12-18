@@ -1,7 +1,6 @@
 +++
 date = "2018-12-18T14:20:40+01:00"
 description = "De l'importance de mettre du sens sur la pertinence du toucher en thérapie. Cette reflexion se centre d'abord sur le corps du thérapeute et joue sur la polysémie du mot toucher."
-draft = true
 logo = "/v1544862622/jonas-vincent-2717-unsplash.jpg"
 longtitle = ""
 notes = ""
