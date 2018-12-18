@@ -11671,7 +11671,7 @@ a {
 }
 
 .text-article p {
-  line-height: 1.4em;
+  margin-bottom: 1em;
 }
 
 .text-article ul, .text-article ol {
