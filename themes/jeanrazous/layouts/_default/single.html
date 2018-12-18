@@ -14,7 +14,7 @@
         <article>
             <header>
                 <div class='top-article'>
-                    {{ if (.Params "logo").len >0 }}
+                    {{ if gt (len .Params "logo")0 }}
                     <div class='logo-article'>
                         <img
                             class="lazy"
