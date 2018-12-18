@@ -5,6 +5,8 @@ logo = ""
 longtitle = ""
 notes = ""
 title = "Qui suis-je ?"
+[menu.main]
+weight = 1
 
 +++
 J'ai une formation en analyse transactionnelle (école AT Lyon), en contrat CTA. Je suis également formé à l'approche systémique et la psychothérapie psychocorporelle.
