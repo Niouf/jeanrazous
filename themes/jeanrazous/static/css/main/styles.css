@@ -11670,6 +11670,10 @@ a {
   margin-top: 1.4em;
 }
 
+.text-article p {
+  line-height: 1.4em;
+}
+
 .text-article ul, .text-article ol {
   margin-top: 1em;
   margin-bottom: 1em;
