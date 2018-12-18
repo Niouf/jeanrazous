@@ -32,6 +32,7 @@ fields:
     schema:
       format: markdown
 pages:
+- content/home/systémie.md
 - content/qui-suis-je.md
 - content/home/analyse-transactionnelle-1.md
 - content/publications/les-trois-degres-outil-diagnostic.md
