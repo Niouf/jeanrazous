@@ -14,7 +14,7 @@
         <article>
             <header>
                 <div class='top-article'>
-                    {{ $logo := len .Params "logo" }}
+                    {{ $logo := len .Params.logo }}
                     {{ if gt $logo 0 }} 
                     <div class='logo-article'>
                         <img
