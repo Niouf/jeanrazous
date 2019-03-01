@@ -32,9 +32,9 @@ fields:
     schema:
       format: markdown
 pages:
+- content/publications/les-trois-degres-outil-diagnostic.md
+- content/home/psychothérapie-corporelle.md
 - content/home/systémie.md
-- content/qui-suis-je.md
 - content/home/analyse-transactionnelle-1.md
 - content/publications/est-ce-que-jaccepte-de-me-laisser-toucher.md
-- content/home/psychothérapie-corporelle.md
-- content/publications/les-trois-degres-outil-diagnostic.md
+- content/qui-suis-je.md

@@ -7,4 +7,4 @@ notes = ""
 title = "Psychothérapie corporelle"
 
 +++
-La psychothérapie corporelle envisage l’approche thérapeutique dans une double lecture : elle pratique conjointement l’écoute attentive de l’histoire du sujet et celle des manifestations corporelles associées. Elle guide ainsi deux cheminements parallèles dont la prise en compte simultanée est opérante.
+page en construction, merci pour votre patience!
