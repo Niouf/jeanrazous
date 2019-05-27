@@ -1,7 +1,7 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: "/admin"
+admin_path: static/admin
 webhook_url: 
 sections:
 - type: directory
@@ -38,4 +38,6 @@ build:
   - HUGO_VERSION=0.51
   preview_output_directory: public
   output_directory: public
+  instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
+    -d public
 version: '0.51'
