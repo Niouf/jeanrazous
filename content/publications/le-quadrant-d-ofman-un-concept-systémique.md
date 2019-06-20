@@ -1,5 +1,5 @@
 +++
-date = ""
+date = "2019-06-20T00:00:00+02:00"
 description = ""
 logo = "/v1561017061/quadrant%203jpeg.jpg"
 longtitle = "Le quadrant d’Ofman (ou Core Qualities en anglais ce qui signifie, qualités fondamentales ou essentielles) est un concept élaboré par Daniel Ofman,un consultant/coach néerlandais. Ce concept peu développé en France est  utilisé surtout  en coaching et il me semble avoir toute sa place en psychothérapie. J’ en dirai plus sur l’intérêt d’utiliser ce concept en thérapie dans une seconde partie. Ce premier article se centre sur la théorie telle que je l’ai comprise."
