@@ -94,14 +94,24 @@
 	<section class='bloc section-pratique'>
 		<div class='container padding'>
 			<div class='columns'>
+				{{ if $.Site.Data.paramsite.bloc_horaires_title1 }}
 				<div class='column'>
 					<h2 class='title is-3'>{{ $.Site.Data.paramsite.bloc_horaires_title1 }}</h2>
 					<p>{{ safeHTML $.Site.Data.paramsite.bloc_horaires_content1 }}</p>
 				</div>
+				{{ end }}
+				{{ if $.Site.Data.paramsite.bloc_horaires_title2 }}
 				<div class='column'>
 					<h2 class='title is-3'>{{ $.Site.Data.paramsite.bloc_horaires_title2 }}</h2>
 					<p>{{ safeHTML $.Site.Data.paramsite.bloc_horaires_content2 }}</p>
 				</div>
+				{{ end }}
+				{{ if $.Site.Data.paramsite.bloc_horaires_title3 }}
+				<div class='column'>
+					<h2 class='title is-3'>{{ $.Site.Data.paramsite.bloc_horaires_title3 }}</h2>
+					<p>{{ safeHTML $.Site.Data.paramsite.bloc_horaires_content3 }}</p>
+				</div>
+				{{ end }}
 			</div>
 		</div>
 	</section>
