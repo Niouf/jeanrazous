@@ -15,4 +15,4 @@ Je considère également que toute personne arrive en cabinet avec son réseau r
 
 Mon expérience m'a aussi montré que le corps du thérapeute était un outil essentiel. Mes sensations, mes émotions et mes comportements m'en disent beaucoup.  Mon corps est une boussole...parfois à mon corps défendant. C'est une boussole qui m'aide souvent à  aider au mieux le client dans la direction qui est la sienne. C'est au contact de Bill Cornell que j'ai le plus appris dans ce domaine.
 
-![](https://res.cloudinary.com/dpjfqut00/w_900/v1543473134/DSCF8639.jpg)
+![](https://res.cloudinary.com/dpjfqut00/w_300/v1543473134/DSCF8639.jpg)
