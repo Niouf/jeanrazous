@@ -31,6 +31,7 @@ fields:
     schema:
       format: markdown
 pages:
+- content/publications/la-coanimation-dans-la-thérapie-de-couple-enjeux-et-défis.md
 - content/publications/le-quadrant-d-ofman-un-concept-systémique.md
 - content/qui-suis-je.md
 - content/publications/les-trois-degres-outil-diagnostic.md
