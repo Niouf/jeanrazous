@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css?family=Sedgwick+Ave+Display&display=swap");
 @-webkit-keyframes spinAround {
   from {
     -webkit-transform: rotate(0deg);
@@ -8,7 +9,6 @@
             transform: rotate(359deg);
   }
 }
-
 @keyframes spinAround {
   from {
     -webkit-transform: rotate(0deg);
@@ -11263,12 +11263,13 @@ label.panel-block:hover {
   font-display: swap;
 }
 
+/*
 @font-face {
-  font-family: "handwrite";
-  src: url("../../../fonts/bridget-script/Bridget Script.ttf");
-  font-display: swap;
+    font-family: "handwrite";
+	src: url("../../../fonts/bridget-script/Bridget Script.ttf");
+	font-display: swap;
 }
-
+*/
 .titleSiteMenu {
   font-family: Times, "Times New Roman", Georgia, serif;
   text-transform: uppercase;
@@ -11288,7 +11289,7 @@ label.panel-block:hover {
 
 .article .citation-article {
   font-size: 2.3em;
-  font-family: "handwrite",Helvetica, Arial, sans-serif;
+  font-family: 'Sedgwick Ave Display', cursive;
   background-color: #eef1f1;
   padding-top: 1em;
   padding-bottom: 1em;
@@ -11298,7 +11299,7 @@ label.panel-block:hover {
 }
 
 .article .citation-article .citation {
-  font-family: "handwrite", Helvetica, Arial, sans-serif;
+  font-family: 'Sedgwick Ave Display', cursive;
   font-size: 1.3em;
   text-align: left;
 }
@@ -11480,7 +11481,7 @@ section.bloc {
 }
 
 .section-citation .citation {
-  font-family: "handwrite", Helvetica, Arial, sans-serif;
+  font-family: 'Sedgwick Ave Display', cursive;
   font-size: 2.7em;
   text-align: center;
 }
@@ -11664,6 +11665,9 @@ a {
 .text-article img {
   padding-top: 0.7em;
   padding-bottom: 0.7em;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
 }
 
 .text-article h2 {

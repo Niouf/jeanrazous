@@ -5,11 +5,13 @@
 	font-display: swap;
 }
 
+/*
 @font-face {
     font-family: "handwrite";
 	src: url("../../../fonts/bridget-script/Bridget Script.ttf");
 	font-display: swap;
 }
+*/
 
 .titleSiteMenu{
 	font-family:Times, "Times New Roman", Georgia, serif;
@@ -36,7 +38,8 @@
 
 	.citation-article{
 		font-size:2.3em;
-		font-family:"handwrite",Helvetica, Arial, sans-serif;
+		//font-family:"handwrite",Helvetica, Arial, sans-serif;
+		font-family: 'Sedgwick Ave Display', cursive;
 		background-color:$bande-couleur-citation-article;
 		padding-top:1em;
 		padding-bottom:1em;
@@ -45,7 +48,8 @@
 		margin-top:1em;
 
 		.citation{
-			font-family:"handwrite", Helvetica, Arial, sans-serif;
+			//font-family:"handwrite", Helvetica, Arial, sans-serif;
+			font-family: 'Sedgwick Ave Display', cursive;
 			font-size:1.3em;
 			text-align:left;
 			&:before {content:"\201C"; left:0; top:0;}
@@ -220,7 +224,8 @@ section.bloc{
 	
 .section-citation{
 	.citation{
-		font-family:"handwrite", Helvetica, Arial, sans-serif;
+		//font-family:"handwrite", Helvetica, Arial, sans-serif;
+		font-family: 'Sedgwick Ave Display', cursive;
 		font-size:2.7em;
 		text-align:center;
 		&:before {content:"\201C"; left:0; top:0;}
@@ -404,6 +409,9 @@ a{
 	img{
 		padding-top:0.7em;
 		padding-bottom:0.7em;
+		text-align:center;
+		display:block;
+		margin: 0 auto;
 	}
 	h2{
 		margin-top:1.4em;
