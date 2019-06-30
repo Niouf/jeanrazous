@@ -1,6 +1,6 @@
 +++
 date = ""
-description = "Cet article publié dans un recueil de textes concernant la théarpie de couple, se centre sur le dispositif de coanimation que nous avons mis en place avec ma consoeur Karine Renou. "
+description = "Cet article publié dans un recueil de textes concernant la thérapie de couple, se centre sur le dispositif de coanimation que nous avons mis en place avec ma consoeur Karine Renou. "
 logo = "/v1561924407/everton-vila-AsahNlC0VhQ-unsplash.jpg"
 longtitle = ""
 notes = ""
