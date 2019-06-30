@@ -1,6 +1,6 @@
 +++
 date = ""
-description = "Cet article publié dans un recueil de textes concernat la théarpie de couple, se centre sur le dispositif de coanimation que nous avons mis en place avec ma consoeur Karine Renou. "
+description = "Cet article publié dans un recueil de textes concernant la théarpie de couple, se centre sur le dispositif de coanimation que nous avons mis en place avec ma consoeur Karine Renou. "
 logo = ""
 longtitle = ""
 notes = ""
