@@ -4,7 +4,7 @@ description = "Ce premier article se centre sur la théorie de ce concept telle 
 logo = "/v1561021763/quadrant.jpg"
 longtitle = ""
 notes = ""
-title = "Le quadrant d'ofman (1) :la théorie"
+title = "Le quadrant d'ofman (1) : un fonctionnement systémique"
 
 +++
 **La qualité essentielle** (en anglais : core quality), que l’on place en haut à gauche du quadrant.
