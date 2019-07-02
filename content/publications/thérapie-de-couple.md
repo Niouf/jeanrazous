@@ -4,7 +4,7 @@ description = "Cet article publié dans un recueil de textes concernant la thér
 logo = "/v1561924407/everton-vila-AsahNlC0VhQ-unsplash.jpg"
 longtitle = ""
 notes = ""
-title = "Thérapie de couple"
+title = "La coanimation dans la thérapie de couple : enjeux et défis"
 
 +++
 Pour accéder au contenu de l'article, veuillez cliquer sur le lien ci-dessous.
