@@ -4,7 +4,7 @@ description = "Le quadrant d’Ofman (ou Core Qualities en anglais ce qui signif
 logo = "/v1561021763/quadrant.jpg"
 longtitle = ""
 notes = ""
-title = "Le quadrant d'ofman (1) : quatre mots pour un système"
+title = "Quatre mots pour un système : Le quadrant d'ofman (1) "
 
 +++
 **La qualité essentielle** (en anglais : core quality), que l’on place en haut à gauche du quadrant.
