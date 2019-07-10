@@ -1,7 +1,6 @@
 +++
 date = ""
 description = "Dans cet article, je tente de montrer l'aspect sytémique de ce quadrant ou comment chaque partie influence l'autre et est influencée.\n Certaines de mes réflexions sont inspirées de F. Balta, psychiatre, formateur en approche systémique coopérative dont je recommande chaleureusement les ouvrages, notamment celui dont la citation est tirée : La complexité à la portée de tous : une nécessité citoyenne; (éd. Eres)"
-draft = true
 logo = ""
 longtitle = "Où nous développons l’intérêt et la difficulté des quadrants."
 notes = ""
