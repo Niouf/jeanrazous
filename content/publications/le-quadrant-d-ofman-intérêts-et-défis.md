@@ -4,7 +4,7 @@ description = "Dans cet article, je tente de montrer l'aspect sytémique de ce q
 logo = "/v1562767198/texture-925765__340.jpg"
 longtitle = "Où nous développons l’intérêt et la difficulté des quadrants."
 notes = ""
-title = "Le quadrant d’Ofman : intérêts et défis"
+title = "Le quadrant d’Ofman (II) : intérêts et défis"
 
 +++
 
