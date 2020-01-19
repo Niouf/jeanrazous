@@ -31,12 +31,13 @@ fields:
     schema:
       format: markdown
 pages:
-- content/publications/thérapie-de-couple.md
+- content/home/analyse-transactionnelle-1.md
+- content/home/psychothérapie-corporelle.md
+- content/home/systémie.md
+- content/publications/est-ce-que-jaccepte-de-me-laisser-toucher.md
+- content/publications/idéologies-attention-danger.md
 - content/publications/le-quadrant-d-ofman-intérêts-et-défis.md
 - content/publications/le-quadrant-d-ofman-un-concept-systémique.md
-- content/home/psychothérapie-corporelle.md
-- content/qui-suis-je.md
 - content/publications/les-trois-degres-outil-diagnostic.md
-- content/publications/est-ce-que-jaccepte-de-me-laisser-toucher.md
-- content/home/analyse-transactionnelle-1.md
-- content/home/systémie.md
+- content/publications/thérapie-de-couple.md
+- content/qui-suis-je.md
