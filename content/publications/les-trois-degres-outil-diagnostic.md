@@ -1,9 +1,9 @@
 +++
 date = 2018-12-18T13:18:19Z
-description = "Cet article s'inspire de l'article de Bill Cornell \"Opening to the vitality of unconscious experience\" (s'ouvrir à la vitalité de l'expérience inconsciente) dans lequel ce dernier nous invite à repenser les trois degrés de jeux psychologiques tels qu'Eric Berne les avait conceptualisés, pour les repenser en terme de diagnostic."
+description = "Cet article s'inspire de l'article de Bill Cornell \"Opening to the vitality of unconscious experience\" (s'ouvrir à la vitalité de l'expérience inconsciente) dans lequel ce dernier nous invite à repenser les trois degrés de jeux psychologiques tels qu'Eric Berne les avait conceptualisés, pour les repenser en terme de diagnostic. "
 logo = "/v1544002147/mike-szczepanski-383929-unsplash.jpg"
 longtitle = ""
-notes = ""
+notes = "> "
 title = "Les trois degrés : Un outil diagnostic précieux "
 
 +++
@@ -25,4 +25,6 @@ Winnicott a étudié la capacité d’agressivité (saine) chez l’enfant et "s
 
 Pour résumer, nous devons être attentifs à quel niveau de scénario intervenir, en sachant que les trois degrés évoqués sont souvent mélangés. Mais une thérapie où l'ennui semble régner, ou qui semble tourner en rond par exemple,  peut indiquer que le travail ne se fait pas au bon niveau.
 
-William (=Bill) F.  Cornell est un psychothérapeute américain, qui centre sa pratique et ses écrits sur les origines archaïques des difficultés amenées par les patients. Les citations de Bill Cornell sont indiquées entre guillemets dans le corps de l'article (sauf indication contraire). Leur traduction est mienne.
+_William (=Bill) F.  Cornell est un psychothérapeute américain, qui centre sa pratique et ses écrits sur les origines archaïques des difficultés amenées par les patients. Les citations de Bill Cornell sont indiquées entre guillemets dans le corps de l'article (sauf indication contraire). Leur traduction est mienne._
+
+**"Opening to the vitality of unconscious experience"** a été publié dans _Transactional Analysis in Contemporary Psychotherapy_, recueil de textes dirigé par Richard Erskine. Londres : Karnac, 2016, pp. 79-98
