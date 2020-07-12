@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 logo = "/v1594573773/casey-horner-sQIsk1ceA8s-unsplash_fqr7ml.jpg"
 longtitle = " Les problèmes d’aujourd’hui viennent des solutions d’hier : "
 notes = ""
