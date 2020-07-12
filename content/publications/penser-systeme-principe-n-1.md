@@ -2,7 +2,7 @@
 date = ""
 description = ""
 draft = true
-logo = ""
+logo = "/v1594574493/problem-2731501_1920_uqvoml.jpg"
 longtitle = " Les problèmes d’aujourd’hui viennent des solutions d’hier : "
 notes = ""
 title = "Penser Système : principe n°1"
