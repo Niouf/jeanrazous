@@ -1,6 +1,7 @@
 +++
 date = 2018-12-18T13:15:07Z
 description = "Je pratique la psychothérapie en cabinet libéral à Lyon depuis dix ans. Analyse transactionnelle, pensée systémique et approche psychocorporelle constituent la base de cette pratique. "
+draft = true
 logo = "/v1543473136/DSCF8616.jpg"
 longtitle = ""
 notes = ""
