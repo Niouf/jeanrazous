@@ -1,7 +1,6 @@
 +++
 date = 2018-12-18T13:26:42Z
 description = ""
-draft = true
 logo = "/v1594572264/valeriia-bugaiova-Kd3BSvLgUIo-unsplash_ksjqlt.jpg"
 longtitle = ""
 notes = ""
