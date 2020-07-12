@@ -1,7 +1,8 @@
 +++
 date = ""
 description = ""
-logo = "/v1594573773/casey-horner-sQIsk1ceA8s-unsplash_fqr7ml.jpg"
+draft = true
+logo = ""
 longtitle = " Les problèmes d’aujourd’hui viennent des solutions d’hier : "
 notes = ""
 title = "Penser Système : principe n°1"
