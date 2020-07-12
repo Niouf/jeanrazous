@@ -7,7 +7,7 @@ longtitle = ""
 notes = ""
 title = "Qui suis-je ?"
 [menu.main]
-weight = 1
+weight = 2
 
 +++
 Je pratique l'analyse transactionnelle, j'ai été formé à l'école d'analyse transactionnelle de Lyon (avec Elyane Alleysson et Sylvie Nay). Je suis en contrat CTA (Certified in Transactional Analysis). Cette théorie permet de travailler à un niveau comportemental (avec les état du moi  fonctionnels par exemple) et historique (analyse structurale,  scénario de vie).
