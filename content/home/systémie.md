@@ -1,7 +1,6 @@
 +++
 date = 2018-12-18T13:25:26Z
 description = "Quelques (modestes) repères pratiques pour penser système\n"
-draft = true
 logo = "/v1544801898/sam-erwin-474207-unsplash.jpg"
 longtitle = "Approche Systémique"
 notes = ""
