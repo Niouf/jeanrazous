@@ -1,5 +1,5 @@
 +++
-date = "2019-06-20T00:00:00+02:00"
+date = 2019-06-19T22:00:00Z
 description = "Le quadrant d’Ofman (ou Core Qualities en anglais ce qui signifie, qualités fondamentales ou essentielles) est un concept élaboré par Daniel Ofman,un consultant/coach néerlandais. Ce concept peu développé en France est  utilisé surtout  en coaching et il me semble avoir toute sa place en psychothérapie. \nCe premier article se centre sur la théorie de ce concept telle que je l’ai comprise. J’en dirai plus sur l’intérêt d’utiliser ce concept en thérapie dans un second article. \n "
 logo = "/v1561021763/quadrant.jpg"
 longtitle = ""
@@ -23,7 +23,7 @@ Le piège représente cette **qualité exacerbée**, ou ce que cette qualité de
 
 **Le défi** (en anglais : challenge). Il s’agit de trouver une qualité qui représente un **opposé positif** du piège.
 
-Ici, par exemple, être diplomate pourrait convenir en contrepoint. La encore c’est chacun qui doit trouver son mot.Il s’agit ici d’équilibrer la qualité première par une autre qualité. C’est la logique plus difficile du ET pour échapper à la logique du OU. Comment être franc ET diplomate et non franc OU diplomate, comme s’il fallait choisir. D’une franchise diplomate ou d’une diplomatie franche... Au delà du jeu sur les mots, la difficulté est de maintenir un équilibre précaire toujours à trouver entre ces deux qualités qui ne semble pas aller de soi ensemble.
+Ici, par exemple, être diplomate pourrait convenir en contrepoint. La encore c’est chacun qui doit trouver son mot.Il s’agit ici d’équilibrer la qualité première par une autre qualité. C’est la logique plus difficile du ET pour échapper à la logique du OU. Comment être franc ET diplomate et non franc OU diplomate, comme s’il fallait choisir. D’une franchise diplomate ou d’une diplomatie franche... Au delà du jeu sur les mots, la difficulté est de maintenir un équilibre précaire toujours à trouver entre ces deux qualités qui ne semblent pas aller de soi ensemble.
 
 **![](https://res.cloudinary.com/dpjfqut00/w_900/v1561017061/quadrant%203jpeg.jpg)**
 
