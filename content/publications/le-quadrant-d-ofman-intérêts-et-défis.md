@@ -7,10 +7,8 @@ notes = ""
 title = "Le quadrant d’Ofman (II) : intérêts et défis"
 
 +++
-
 **Comme l’arbre cache la forêt, le piège cache la ressource/qualité.**
 
-  
 Il est facile de repérer le **piège** chez les autres, ce qui nous irrite, nous fatigue voire nous exaspère. Il est tout aussi facile d’oublier que ce **piège** cache une **ressource** véritable de la personne si l’on se donne la peine d’y réfléchir. Autrement dit, je vois le **piège**, qu’en est-il de la **qualité** qui n’est finalement pas si loin?
 
 _Une femme rigide (**piège**) est aussi une femme qui dans ses bons moments peut offrir de la structure, ou de la solidité (**qualité**)_
@@ -41,10 +39,10 @@ Ce que je ne supporte pas chez l’autre, mon **allergie** donc, m’en dit beau
 
 Et on ne plaisante pas avec certaines **allergies** physiques ou physiologiques qui peuvent être mortelles. Ici la confusion est mentale, **l’allergie** est psychologique : elle est tout aussi redoutable car elle nous ramène peut être à des épisodes anciens douloureux ou a notre éducation jamais remise en question et à laquelle nous pensons devoir être loyal.
 
-Je ne supporte pas les gens égoïste! Sauf que cette personne qui a ce comportement est aussi quelqu’un qui pense à lui. Peut-être est-ce justement ce que je n’arrive pas à faire, moi qui ait toujours le souci des autres. Agir avec le souci de soi n’est peut être pas si facile pour moi. Cela m’éviterait pourtant de tomber dans...l’oubli de moi et de mes besoins. (mon **piège**). Il ne s’agit pas de devenir égoïste, mais de penser aussi à soi de temps en temps.
+Je ne supporte pas les gens égoïstes! Sauf que cette personne qui a ce comportement est aussi quelqu’un qui pense à lui. Peut-être est-ce justement ce que je n’arrive pas à faire, moi qui ait toujours le souci des autres. Agir avec le souci de soi n’est peut être pas si facile pour moi. Cela m’éviterait pourtant de tomber dans...l’oubli de moi et de mes besoins. (mon **piège**). Il ne s’agit pas de devenir égoïste, mais de penser aussi à soi de temps en temps.
 
 La clé est donc de toujours garder notre ressource/qualité ET d’y adjoindre le défi. En d’autres termes, le défi sans la qualité c’est la certitude d’aller vers l’allergie et donc de renoncer ou résister très vite au changement.
 
 Pour conclure
 
-Le quadrant d’Ofman met donc en lumière les forces antagonistes qui agissent à l’intérieur de nous en tant que système complexe pour que celui-ci puisse continuer à se maintenir. Pour reprendre les mots de François Balta  «chaque logique porte en elle même sa propre négation si rien ne vient l’arrêter». En effet,une valeur vécue de façon trop rigide ou idéaliste risque de produire les effets inverses de celui qui est recherché. Un justicier finit souvent par commettre des injustices...Le quadrant d’Ofman illustre justement cette idée. Qualité et piège sont les deux faces de la même pièce. La où il y a de la lumière, il y a de l’ombre. Inséparables. La lumière peut devenir aveuglante au lieu d’éclairer. Un deuxième éclairage deviendra alors nécessaire.
+Le quadrant d’Ofman met donc en lumière les forces antagonistes qui agissent à l’intérieur de nous en tant que système complexe pour que celui-ci puisse continuer à se maintenir. Pour reprendre les mots de François Balta  «chaque logique porte en elle même sa propre négation si rien ne vient l’arrêter». En effet, une valeur vécue de façon trop rigide ou idéaliste risque de produire les effets inverses de celui qui est recherché. Un justicier finit souvent par commettre des injustices...Le quadrant d’Ofman illustre justement cette idée. Qualité et piège sont les deux faces de la même pièce. La où il y a de la lumière, il y a de l’ombre. Inséparables. La lumière peut devenir aveuglante au lieu d’éclairer. Un deuxième éclairage deviendra alors nécessaire.
