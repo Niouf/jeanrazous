@@ -1,13 +1,14 @@
 +++
 date = "2018-12-18T14:20:40+01:00"
 description = "De l'importance de mettre du sens sur la pertinence du toucher en thérapie. Cette reflexion se centre d'abord sur le corps du thérapeute et joue sur la polysémie du mot toucher."
-logo = "/v1544862622/jonas-vincent-2717-unsplash.jpg"
+logo = "https://res.cloudinary.com/dpjfqut00/image/upload/v1544862622/jonas-vincent-2717-unsplash.jpg"
 longtitle = ""
 notes = ""
 title = "Est-ce que j'accepte de me laisser toucher?"
 
 +++
-Louise. Il y a six mois. Elle est assise en pleurs en face de moi. Depuis             plusieurs minutes elle me dit que de toute façon elle n’y arrivera jamais et qu’elle ne voit pas ce qui pourra l’aider à «trouver sa place» dans le monde. Pas d’espoir. Et les souvenirs qui confirment sa croyance refont surface. Je l’écoute, je me laisse ressentir. Ce n’est pas facile pour moi. Je ne tente pas de la rassurer en lui prenant la main. Je ne dis rien, je ne fais rien, je ne saurais pas quoi dire ou faire. La séance n’est pas finie. J’ai besoin d’un peu de temps...
+
+Louise. Il y a six mois. Elle est assise en pleurs en face de moi. Depuis plusieurs minutes elle me dit que de toute façon elle n’y arrivera jamais et qu’elle ne voit pas ce qui pourra l’aider à «trouver sa place» dans le monde. Pas d’espoir. Et les souvenirs qui confirment sa croyance refont surface. Je l’écoute, je me laisse ressentir. Ce n’est pas facile pour moi. Je ne tente pas de la rassurer en lui prenant la main. Je ne dis rien, je ne fais rien, je ne saurais pas quoi dire ou faire. La séance n’est pas finie. J’ai besoin d’un peu de temps...
 
 Mon expérience ainsi que ce que j’ai pu comprendre des écrits et des séminaires de Bill Cornell m’amènent à distinguer le corps du client et le corps du thérapeute et à me demander à propos du toucher : du besoin de qui parle t’on? Si je touche physiquement ma patiente, elle me touche aussi puisqu’un contact physique se crée entre nous deux : est ce mon besoin d’être touché et rassuré que je satisfais à ce moment là? Le sien? Comment le savoir ?
 
@@ -17,7 +18,7 @@ En d’autres termes il me semble essentiel que je me laisse ressentir et que j�
 
 A l’inverse, si la toucher physiquement témoigne plutôt d’un évitement c’est à dire d’une difficulté à me laisser toucher émotionnellement sans risquer de m’effondrer, alors il me semble que le mécanisme de défense de ma patiente comme le mien vont continuer de se renforcer.Le risque alors serait de montrer par mon agir que moi non plus je n’arrive pas à avoir une instance contenante suffisante pour accueillir ce que je vis pour ensuite pouvoir le penser et agir en conséquence. Et renforcer chez ma patiente la crainte de l’effondrement comme l’a conceptualisée D. Winnicott.
 
-Louise. Il y a six mois. La séance n’est pas finie. J’ai encore besoin d’un peu de temps...Je me suis laisser douloureusement ressentir : que dire, que faire? Je ne sais pas. Il me semble que c’est de présence dont elle a besoin et non pas d’être rassurée par un toucher. J’y pense . Je réfléchis. Je lui propose alors de m’asseoir à côté d’elle. Pour être avec elle dans ce moment éprouvant et d’une façon nouvelle. Elle accepte entre deux sanglots. Je reste assis à côté d’elle et je la regarde pleurer et parler. Je ne dis rien. Je ne fais rien. Fin de la séance, je 	reprends mon fauteuil, dis quelques mots, elle ne va pas beaucoup mieux mais 	semble un peu soulagée. Un peu...
+Louise. Il y a six mois. La séance n’est pas finie. J’ai encore besoin d’un peu de temps...Je me suis laisser douloureusement ressentir : que dire, que faire? Je ne sais pas. Il me semble que c’est de présence dont elle a besoin et non pas d’être rassurée par un toucher. J’y pense . Je réfléchis. Je lui propose alors de m’asseoir à côté d’elle. Pour être avec elle dans ce moment éprouvant et d’une façon nouvelle. Elle accepte entre deux sanglots. Je reste assis à côté d’elle et je la regarde pleurer et parler. Je ne dis rien. Je ne fais rien. Fin de la séance, je reprends mon fauteuil, dis quelques mots, elle ne va pas beaucoup mieux mais semble un peu soulagée. Un peu...
 
 Louise. Il y a deux semaines. Elle me dit qu’une des choses qui l’aident dans la thérapie c’est qu’on cherche ensemble et que je suis à côté d’elle dans cette recherche, pas au dessus. Pas de référence à la séance au cours de laquelle je me suis assis à ses côtés. Je sais que l’aide que l’on apporte n’est souvent pas là où l’on l’a cru. Mais j’imagine que son corps a le souvenir de cette séance.
 

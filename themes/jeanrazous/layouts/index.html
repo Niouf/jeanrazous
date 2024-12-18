@@ -1,144 +1,156 @@
 <!DOCTYPE html>
 <html lang="fr">
-
   <head>
     {{ partial "head.html" . }}
   </head>
 
   <body class="has-navbar-fixed-top">
-	
-	{{ partial "menu.html" .}}
-	
+    {{ partial "menu.html" .}}
 
-	<section class='section-home'>
-		<div class='background-home '>
-			<div class='container'>
-				<div class="columns is-vcentered">
-				  <div class="home-presentation column has-text-centered is-offset-1 is-two-fifths">
-						<h1 class='title-home'>{{ $.Site.Data.paramsite.title }}</h1>
-						<p class='title-part1'>{{ $.Site.Data.paramsite.subtitle }}</p>
-						<p class='title-part2'>{{ $.Site.Data.paramsite.subtitle2 }}</p>
-				  </div>
-				</div>
-			</div>
-		</div>
-	</section>
+    <section class="section-home">
+      <div class="background-home">
+        <div class="container">
+          <div class="columns is-vcentered">
+            <div
+              class="home-presentation column has-text-centered is-offset-1 is-two-fifths"
+            >
+              <h1 class="title-home">{{ $.Site.Data.paramsite.title }}</h1>
+              <p class="title-part1">{{ $.Site.Data.paramsite.subtitle }}</p>
+              <p class="title-part2">{{ $.Site.Data.paramsite.subtitle2 }}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
+    {{ if len (where .Site.RegularPages "Section" "==" "home") }}
+    <section class="bloc section-pratique">
+      <div class="container padding">
+        <h2 class="title is-2">
+          {{ $.Site.Data.paramsite.home_title_articles }}
+        </h2>
 
-	{{ if len (where .Site.RegularPages "Section" "==" "home") }}
-	<section class='bloc section-pratique'>
-		<div class='container padding'>
-			<h2 class='title is-2'>{{ $.Site.Data.paramsite.home_title_articles }}</h2>
+        <div class="columns">
+          {{ range sort (where .Site.RegularPages "Section" "=="
+          "home").ByWeight }}
+          <div class="column">
+            <a href="{{ .RelPermalink }}">
+              <div class="bloc-pratique">
+                <img
+                  class="publication-image lazy"
+                  src='{{ "img/placeholder.png" | absURL }}'
+                  data-src="{{ $.Site.Data.paramsite.baseUrlImage }}/w_300/{{ .Params.logo }}"
+                  alt="Logo de l'article {{ .Title }}"
+                />
 
-			<div class='columns'>
-				{{ range sort (where .Site.RegularPages "Section" "==" "home").ByWeight }}
-					<div class="column">
-						<a href='{{ .RelPermalink }}'>
-							<div class='bloc-pratique'>
-									
-								<img class='publication-image lazy' src='{{ "img/placeholder.png" | absURL }}' data-src='{{ $.Site.Data.paramsite.baseUrlImage }}/w_300/{{ .Params.logo }}' alt="Logo de l'article {{ .Title }}" />
-								
-								<div class='bloc-texte'>
-									<h3 class='is-4'>{{ .Title }}</h3>
-								</div>
-							</div>
-						</a>
-					</div>
-				{{ end }}
-			</div>
-		</div>
-	</section>
-	{{ end }}
+                <div class="bloc-texte">
+                  <h3 class="is-4">{{ .Title }}</h3>
+                </div>
+              </div>
+            </a>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </section>
+    {{ end }} {{if $.Site.Data.paramsite.citationHome }}
+    <section class="section-citation">
+      <div class="container padding">
+        <blockquote class="citation">
+          {{ $.Site.Data.paramsite.citationHome }}
+        </blockquote>
+        <p class="citation-auteur">
+          <cite>{{ $.Site.Data.paramsite.citationHomeAuthor }}</cite>
+        </p>
+      </div>
+    </section>
+    {{ end }} {{ if len (where .Site.RegularPages "Type" "=" "publications") }}
+    <section class="bloc section-publication">
+      <div class="container padding">
+        <h2 class="title is-2">Publications</h2>
+        <div class="columns">
+          {{ range first 2 (where .Site.RegularPages "Type"
+          "publications").ByDate.Reverse }}
+          <div class="column">
+            <a href="{{ .RelPermalink }}">
+              <div class="publication">
+                <div class="publication-image">
+                  <img
+                    class="lazy"
+                    src='{{ "img/placeholder.png" | absURL }}'
+                    data-src='{{replace .Params.logo "upload/" "upload/w_600/" }}'
+                    alt="Logo de l'article {{ .Title }}"
+                  />
+                </div>
 
-	{{if $.Site.Data.paramsite.citationHome }}
-	<section class='section-citation '>
-		<div class='container padding'>
-			<blockquote class='citation'>{{ $.Site.Data.paramsite.citationHome }}
-			</blockquote>
-			<p class='citation-auteur'><cite >{{ $.Site.Data.paramsite.citationHomeAuthor }}</cite></p>
-		</div>
-	</section>
-	{{ end }}
+                <div class="publication-titre">
+                  <h3 class="subtitle is-3">{{ .Title }}</h3>
+                </div>
+              </div>
+            </a>
+          </div>
+          {{ end }}
+        </div>
+        <div>
+          <a href="./publications" class="button"
+            >Voir toutes les publications</a
+          >
+        </div>
+      </div>
+    </section>
+    {{ end }}
 
-	{{ if len (where .Site.RegularPages "Type" "=" "publications") }}
-	<section class='bloc section-publication'>
-		<div class='container padding'>
-			<h2 class='title is-2'>Publications</h2>
-			<div class='columns'>
-				{{ range first 2 (where .Site.RegularPages "Type" "publications").ByDate.Reverse }}
-					<div class='column'>
-						<a href='{{ .RelPermalink }}'>
-							<div class='publication'>
-								<div class='publication-image'>
-									<img class='lazy' src='{{ "img/placeholder.png" | absURL }}' data-src='{{ $.Site.Data.paramsite.baseUrlImage }}/w_400/{{ .Params.logo }}' alt="Logo de l'article {{ .Title }}" />
-								</div>
-								
-								<div class='publication-titre'>
-										<h3 class='subtitle is-3'>{{ .Title }}</h3>
-								</div>
-							</div>
-						</a>
-					</div>
-				{{ end }}	
-			</div>
-			<div><a href='./publications' class="button">Voir toutes les publications</a></div>
-		</div>
-	</section>
-	{{ end }}
-	
-	
-	<div class='section-map'>
-		<div id='map' style='width: 100%; height: 400px;'></div>
-	</div>
-	
-	<section class='bloc section-pratique'>
-		<div class='container padding'>
-			<div class='columns'>
-				{{ if $.Site.Data.paramsite.bloc_horaires_title1 }}
-				<div class='column'>
-					<h2 class='title is-3'>{{ $.Site.Data.paramsite.bloc_horaires_title1 }}</h2>
-					<p>{{ safeHTML $.Site.Data.paramsite.bloc_horaires_content1 }}</p>
-				</div>
-				{{ end }}
-				{{ if $.Site.Data.paramsite.bloc_horaires_title2 }}
-				<div class='column'>
-					<h2 class='title is-3'>{{ $.Site.Data.paramsite.bloc_horaires_title2 }}</h2>
-					<p>{{ safeHTML $.Site.Data.paramsite.bloc_horaires_content2 }}</p>
-				</div>
-				{{ end }}
-				{{ if $.Site.Data.paramsite.bloc_horaires_title3 }}
-				<div class='column'>
-					<h2 class='title is-3'>{{ $.Site.Data.paramsite.bloc_horaires_title3 }}</h2>
-					<p>{{ safeHTML $.Site.Data.paramsite.bloc_horaires_content3 }}</p>
-				</div>
-				{{ end }}
-			</div>
-		</div>
-	</section>
+    <div class="section-map">
+      <div id="map" style="width: 100%; height: 400px"></div>
+    </div>
 
+    <section class="bloc section-pratique">
+      <div class="container padding">
+        <div class="columns">
+          {{ if $.Site.Data.paramsite.bloc_horaires_title1 }}
+          <div class="column">
+            <h2 class="title is-3">
+              {{ $.Site.Data.paramsite.bloc_horaires_title1 }}
+            </h2>
+            <p>{{ safeHTML $.Site.Data.paramsite.bloc_horaires_content1 }}</p>
+          </div>
+          {{ end }} {{ if $.Site.Data.paramsite.bloc_horaires_title2 }}
+          <div class="column">
+            <h2 class="title is-3">
+              {{ $.Site.Data.paramsite.bloc_horaires_title2 }}
+            </h2>
+            <p>{{ safeHTML $.Site.Data.paramsite.bloc_horaires_content2 }}</p>
+          </div>
+          {{ end }} {{ if $.Site.Data.paramsite.bloc_horaires_title3 }}
+          <div class="column">
+            <h2 class="title is-3">
+              {{ $.Site.Data.paramsite.bloc_horaires_title3 }}
+            </h2>
+            <p>{{ safeHTML $.Site.Data.paramsite.bloc_horaires_content3 }}</p>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </section>
 
-    
     {{ partial "footer.html" . }}
 
+    <script>
+      //Gestion de la map
+      mapboxgl.accessToken = '{{ $.Site.Data.paramsite.mapboxkey }}';
+      var map = new mapboxgl.Map({
+      container: 'map',
+      style: 'mapbox://styles/mapbox/streets-v10',
+      center: [{{ $.Site.Data.paramsite.longitude }},{{ $.Site.Data.paramsite.latitude }}], // starting position [lng, lat]
+      zoom: 14	 // starting zoom
+      });
 
-	<script>
-		//Gestion de la map
-		mapboxgl.accessToken = '{{ $.Site.Data.paramsite.mapboxkey }}';
-		var map = new mapboxgl.Map({
-		container: 'map',
-		style: 'mapbox://styles/mapbox/streets-v10',
-		center: [{{ $.Site.Data.paramsite.longitude }},{{ $.Site.Data.paramsite.latitude }}], // starting position [lng, lat]
-		zoom: 14	 // starting zoom
-		});
+      map.scrollZoom.disable();
 
-		map.scrollZoom.disable();
-
-			new mapboxgl.Popup()
-				.setLngLat({lng:{{ $.Site.Data.paramsite.longitude }},lat:{{ $.Site.Data.paramsite.latitude }}})
-				.setHTML("<h2><span class='name-brand'>{{ $.Site.Data.paramsite.title }}</span></h2><p>{{ $.Site.Data.paramsite.subtitle }} <br>{{ $.Site.Data.paramsite.location }}<p>")
-				.addTo(map);
-		</script>
-
+      	new mapboxgl.Popup()
+      		.setLngLat({lng:{{ $.Site.Data.paramsite.longitude }},lat:{{ $.Site.Data.paramsite.latitude }}})
+      		.setHTML("<h2><span class='name-brand'>{{ $.Site.Data.paramsite.title }}</span></h2><p>{{ $.Site.Data.paramsite.subtitle }} <br>{{ $.Site.Data.paramsite.location }}<p>")
+      		.addTo(map);
+    </script>
   </body>
-
 </html>

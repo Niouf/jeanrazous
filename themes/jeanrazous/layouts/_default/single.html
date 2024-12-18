@@ -1,67 +1,50 @@
 <!DOCTYPE html>
 <html lang="fr">
-
   <head>
     {{ partial "head.html" . }}
   </head>
 
   <body class="has-navbar-fixed-top">
-
     {{ partial "menu.html" .}}
 
-
     <div class="container article">
-        <article>
-            <header>
-                <div class='top-article'>
-                    {{ $logo := len .Params.logo }}
-                    {{ if gt $logo 0 }} 
-                    <div class='logo-article'>
-                        <img
-                            class="lazy"
-                            src='{{ "img/placeholder.png" | absURL }}'
-                            srcset="{{ $.Site.Data.paramsite.baseUrlImage }}w_800/{{ .Params.logo }} 800w,
-                            {{ $.Site.Data.paramsite.baseUrlImage }}w_710/{{ .Params.logo }} 710w,
-                            {{ $.Site.Data.paramsite.baseUrlImage }}w_1000/{{ .Params.logo }} 1000w,
-                            {{ $.Site.Data.paramsite.baseUrlImage }}w_1420/{{ .Params.logo }} 1420w"
-                            data-src="{{ $.Site.Data.paramsite.baseUrlImage  }}w_800/{{ .Params.logo }}"
-                            alt=""
-                            />
+      <article>
+        <header>
+          <div class="top-article">
+            {{ $logo := len .Params.logo }} {{ if gt $logo 0 }}
+            <div class="logo-article">
+              <img class="lazy" src='{{ "img/placeholder.png" | absURL }}'
+              srcset="{{ replace .Params.logo "upload/" "upload/w_800/" }} 800w,
+              {{ replace .Params.logo "upload/" "upload/w_710/" }} 710w, {{
+              replace .Params.logo "upload/" "upload/w_1000/" }} 1000w, {{
+              replace .Params.logo "upload/" "upload/w_1420/" }} 1420w"
+              data-src="{{ replace .Params.logo "upload/" "upload/w_800/" }}"
+              alt="" />
+            </div>
+            {{ end }}
 
-                    </div>
-                    {{ end }}
+            <div class="columns header-article">
+              <div class="column is-12">
+                <h1 class="title-header-article">
+                  {{ if (not (isset .Params "titlelong")) }} {{ .Title }}
+                  {{else}} {{ .Params.titlelong}} {{end}}
+                </h1>
+              </div>
+            </div>
+          </div>
+        </header>
 
-                    <div class='columns header-article'>
-                        <div class='column is-12'>
-                            <h1 class='title-header-article'>
-                                {{ if (not (isset .Params "titlelong")) }}
-                                {{ .Title }}
-                                {{else}}
-                                {{ .Params.titlelong}}
-                                {{end}}
-                            </h1>
-                        </div>
-                    </div>
-                </div>
-            </header>
+        <div class="columns content-article">
+          <div class="column is-offset-2 is-8">
+            {{ if isset .Params "description" }}
+            <div class="description-article">{{ .Params.description }}</div>
+            {{ end }}
 
-
-            <div class='columns content-article'>
-                <div class='column is-offset-2 is-8'>
-                    {{ if isset .Params "description" }}
-                    <div class='description-article'>
-                        {{ .Params.description }}
-                    </div>
-                    {{ end }}
-
-                    <div class='text-article'>
-                         {{ .Content }}
-                    </div>
-                </div>
-            </div>        
-        </article>
+            <div class="text-article">{{ .Content }}</div>
+          </div>
+        </div>
+      </article>
     </div>
     {{ partial "footer.html" . }}
   </body>
-
-</html> 
+</html>

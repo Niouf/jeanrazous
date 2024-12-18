@@ -1,12 +1,13 @@
 +++
 date = 2019-07-20T22:00:00Z
 description = "Dans cet article, je tente de montrer l'aspect sytémique de ce quadrant ou comment chaque partie influence l'autre et est influencée.\n Certaines de mes réflexions sont inspirées de F. Balta, psychiatre, formateur en approche systémique coopérative dont je recommande chaleureusement les ouvrages, notamment celui dont la citation est tirée : La complexité à la portée de tous : une nécessité citoyenne; (éd. Eres)"
-logo = "/v1562767198/texture-925765__340.jpg"
+logo = "https://res.cloudinary.com/dpjfqut00/image/upload/v1562767198/texture-925765__340.jpg"
 longtitle = "Où nous développons l’intérêt et la difficulté des quadrants."
 notes = ""
 title = "Le quadrant d’Ofman (II) : intérêts et défis"
 
 +++
+
 **Comme l’arbre cache la forêt, le piège cache la ressource/qualité.**
 
 Il est facile de repérer le **piège** chez les autres, ce qui nous irrite, nous fatigue voire nous exaspère. Il est tout aussi facile d’oublier que ce **piège** cache une **ressource** véritable de la personne si l’on se donne la peine d’y réfléchir. Autrement dit, je vois le **piège**, qu’en est-il de la **qualité** qui n’est finalement pas si loin?
@@ -45,4 +46,4 @@ La clé est donc de toujours garder notre ressource/qualité ET d’y adjoindre 
 
 Pour conclure
 
-Le quadrant d’Ofman met donc en lumière les forces antagonistes qui agissent à l’intérieur de nous en tant que système complexe pour que celui-ci puisse continuer à se maintenir. Pour reprendre les mots de François Balta  «chaque logique porte en elle même sa propre négation si rien ne vient l’arrêter». En effet, une valeur vécue de façon trop rigide ou idéaliste risque de produire les effets inverses de celui qui est recherché. Un justicier finit souvent par commettre des injustices...Le quadrant d’Ofman illustre justement cette idée. Qualité et piège sont les deux faces de la même pièce. La où il y a de la lumière, il y a de l’ombre. Inséparables. La lumière peut devenir aveuglante au lieu d’éclairer. Un deuxième éclairage deviendra alors nécessaire.
+Le quadrant d’Ofman met donc en lumière les forces antagonistes qui agissent à l’intérieur de nous en tant que système complexe pour que celui-ci puisse continuer à se maintenir. Pour reprendre les mots de François Balta «chaque logique porte en elle même sa propre négation si rien ne vient l’arrêter». En effet, une valeur vécue de façon trop rigide ou idéaliste risque de produire les effets inverses de celui qui est recherché. Un justicier finit souvent par commettre des injustices...Le quadrant d’Ofman illustre justement cette idée. Qualité et piège sont les deux faces de la même pièce. La où il y a de la lumière, il y a de l’ombre. Inséparables. La lumière peut devenir aveuglante au lieu d’éclairer. Un deuxième éclairage deviendra alors nécessaire.

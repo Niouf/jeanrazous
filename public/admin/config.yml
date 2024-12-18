@@ -128,8 +128,8 @@ collections:
       - {
           label: "Date",
           name: "date",
+          default: "{{now}}",
           widget: "datetime",
-          value_type: "dd/MM/yyyy",
           hint: "Date de création",
         }
       - {
@@ -140,7 +140,7 @@ collections:
         }
       - {
           label: "Titre long",
-          name: "longtTtitle",
+          name: "longtitle",
           widget: "string",
           hint: "Titre long du document",
           required: false,
