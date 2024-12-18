@@ -8,7 +8,7 @@ description = "Jean Razous cabinet de psychothérapies"
 homepage = "http://psy-razous.com"
 tags = []
 features = []
-min_version = "0.41"
+min_version = "0.140"
 
 [author]
   name = "Fabien Grignoux"

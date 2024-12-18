@@ -1,8 +1,7 @@
-
 @font-face {
-    font-family: "title1";
-	src: url("../../../fonts/elephant-2/Elephant-PersonalUse.ttf");
-	font-display: swap;
+  font-family: "title1";
+  src: url("../../../fonts/elephant-2/Elephant-PersonalUse.ttf");
+  font-display: swap;
 }
 
 /*
@@ -13,455 +12,447 @@
 }
 */
 
-.titleSiteMenu{
-	font-family:Times, "Times New Roman", Georgia, serif;
-	text-transform:uppercase;
+.titleSiteMenu {
+  font-family: Times, "Times New Roman", Georgia, serif;
+  text-transform: uppercase;
 }
 
+.article {
+  .title-article,
+  .subtitle-article {
+    font-family: Times, "Times New Roman", Georgia, serif;
+    text-transform: uppercase;
+  }
 
-.article{
+  @media screen and (max-width: 800px) {
+    .content-article {
+      padding-left: 1em;
+      padding-right: 1em;
+    }
+  }
 
-	.title-article, .subtitle-article{
-		font-family:Times, "Times New Roman", Georgia, serif;
-		text-transform:uppercase;
-	}
+  .citation-article {
+    font-size: 2.3em;
+    //font-family:"handwrite",Helvetica, Arial, sans-serif;
+    font-family: "Meow Script", serif;
+    background-color: $bande-couleur-citation-article;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    margin-top: 1em;
 
+    .citation {
+      //font-family:"handwrite", Helvetica, Arial, sans-serif;
+      font-family: "Meow Script", serif;
+      font-size: 1.9em;
+      text-align: left;
+      &:before {
+        content: "\201C";
+        left: 0;
+        top: 0;
+      }
+      &:after {
+        content: "\201D";
+        right: 0;
+        bottom: 0;
+      }
+    }
 
-	@media screen and (max-width: 800px) {
-		.content-article{
-			padding-left:1em;
-			padding-right:1em;
-		}	
-	}
+    .citation-auteur {
+      text-align: right;
+      font-size: 1em;
+      width: 100%;
+      display: block;
+    }
 
+    @media screen and (max-width: 640px) {
+      .citation {
+        font-size: 0.9em;
+      }
 
+      .citation-auteur {
+        font-size: 0.7em;
+      }
+    }
+  }
 
-	.citation-article{
-		font-size:2.3em;
-		//font-family:"handwrite",Helvetica, Arial, sans-serif;
-		font-family: 'Sedgwick Ave Display', cursive;
-		background-color:$bande-couleur-citation-article;
-		padding-top:1em;
-		padding-bottom:1em;
-		padding-left:0.5em;
-		padding-right:0.5em;
-		margin-top:1em;
+  .title-article {
+    font-size: 2.3em;
+  }
 
-		.citation{
-			//font-family:"handwrite", Helvetica, Arial, sans-serif;
-			font-family: 'Sedgwick Ave Display', cursive;
-			font-size:1.3em;
-			text-align:left;
-			&:before {content:"\201C"; left:0; top:0;}
-			&:after {content:"\201D"; right:0; bottom:0;}
-		}
-	
-		.citation-auteur{
-			text-align:right;
-			font-size:1.0em;
-			width:100%;
-			display:block;
-		}
+  .subtitle-article {
+    font-size: 1.5em;
+  }
 
-		@media screen and (max-width: 640px) {
-			.citation{
-				font-size:0.9em;
-			}
+  .subtitle-article {
+    margin-top: 2em;
+  }
 
-			.citation-auteur{
-				font-size:0.7em;
-			}
-		  }
+  .description-article {
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-bottom: 1em;
+  }
 
-	}
-	
-	.title-article{
-		font-size:2.3em;
-	}
-	
-	.subtitle-article{
-		font-size:1.5em;
-	}
-	
-	.subtitle-article{
-		margin-top:2em;
-	}
+  .top-article {
+    padding-top: 1em;
 
-	.description-article{
-		font-size:1.1em;
-		font-weight:bold;
-		margin-bottom:1em;
-	}
+    .title-header-article {
+      font-size: 3.3em;
+      font-family: "title1", Helvetica, Arial, sans-serif;
+      text-align: center;
+    }
 
+    @media screen and (max-width: 640px) {
+      .title-header-article {
+        font-size: 2.5em;
+      }
+    }
 
-	.top-article{
-		padding-top:1em;
+    .logo-article {
+      margin-bottom: 0.8em;
+      height: 350px;
+      width: 100%;
+      &:hover {
+        transform: scale(1.01, 1.01);
+        transition-timing-function: ease-out;
+        transition-duration: 250ms;
+      }
+      img {
+        height: 350px;
+        width: 100%;
+        object-fit: cover;
+      }
+    }
 
-		.title-header-article{
-			font-size:3.3em;
-			font-family:"title1", Helvetica, Arial, sans-serif;
-			text-align:center;
-			
-		}
-
-		
-		@media screen and (max-width: 640px) {
-			.title-header-article{
-				font-size:2.5em;
-			}
-		}
-
-		
-		.logo-article{
-			margin-bottom:0.8em;
-			height:350px;
-			width:100%;
-			&:hover{
-				transform: scale(1.01,1.01);
-				transition-timing-function: ease-out;
-				transition-duration: 250ms;
-			}
-			img { 
-				height: 350px;
-				width:100%;
-				object-fit: cover;
-			}
-		}
-	
-		.publication-titre{
-			z-index:1;
-			background-color:$light;
-			padding:1em;
-			width:100%;
-		}
-	}
-
-
+    .publication-titre {
+      z-index: 1;
+      background-color: $light;
+      padding: 1em;
+      width: 100%;
+    }
+  }
 }
 
-
-section.bloc{
-	padding-top:2em;
-	padding-bottom:2em;
-}
- 
-.navbar{
-	border-bottom:1px solid $couleur-princ;
+section.bloc {
+  padding-top: 2em;
+  padding-bottom: 2em;
 }
 
-.section-citation{
-	margin-top:2em;
-	margin-bottom:2em;
+.navbar {
+  border-bottom: 1px solid $couleur-princ;
 }
 
-.padding{
-	padding-left:1.5em;
-	padding-right:1.5em;
+.section-citation {
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 
-.section-home{
-	background-color:white;
-	height:80vh;
+.padding {
+  padding-left: 1.5em;
+  padding-right: 1.5em;
 }
 
-
-.background-home{
-	/* The image used */
-	background-image: url("../../img/background-home.jpg");
-
-	/* Full height */
-	height: 100%;
-
-	/* Center and scale the image nicely */
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;	
-	
-	display: flex;
-	align-items: center;
-
-
-	&:before{
-		content: '';
-		position: absolute;
-		top: 0;
-		right: 0;
-		left: 0;
-		bottom: 0;
-		background: rgba(255,255,255,0);
-	}
-
-	h1{
-		font-family:Times, "Times New Roman", Georgia, serif;
-		color:white;
-		font-size:3.3em;
-		text-shadow: 1px 1px 2px black;
-		text-transform:uppercase;
-		border-bottom : 2px solid $couleur-princ;
-	}
-	
-	p.title-part1{
-		color:white;
-		font-size:1.8em;
-		text-shadow: 1px 1px 2px black;
-	}
-	
-	p.title-part2{
-		color:white;
-		font-size:1.6em;
-		text-shadow: 1px 1px 2px black;
-	}
+.section-home {
+  background-color: white;
+  height: 80vh;
 }
 
+.background-home {
+  /* The image used */
+  background-image: url("../../img/background-home.jpg");
 
-.portrait{
-	border-radius: 50%;
-	border:3px solid #00d1b2;
-	max-height:250px;
-	text-align:center;
-}
-	
-	
-.section-citation{
-	.citation{
-		//font-family:"handwrite", Helvetica, Arial, sans-serif;
-		font-family: 'Sedgwick Ave Display', cursive;
-		font-size:2.7em;
-		text-align:center;
-		&:before {content:"\201C"; left:0; top:0;}
-		&:after {content:"\201D"; right:0; bottom:0;}
-	}
+  /* Full height */
+  height: 100%;
 
-	.citation-auteur{
-		text-align:right;
-		font-size:1.5em;
-	}
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 
-	padding-top:3em;
-	padding-bottom:3em;
-	background:$bande-couleur-citation;
+  display: flex;
+  align-items: center;
 
-}
+  &:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0);
+  }
 
+  h1 {
+    font-family: Times, "Times New Roman", Georgia, serif;
+    color: white;
+    font-size: 3.3em;
+    text-shadow: 1px 1px 2px black;
+    text-transform: uppercase;
+    border-bottom: 2px solid $couleur-princ;
+  }
 
+  p.title-part1 {
+    color: white;
+    font-size: 1.8em;
+    text-shadow: 1px 1px 2px black;
+  }
 
-
-
-h2{
-	font-size : 2em;
-	font-family:"title1", Helvetica, Arial, sans-serif;
-}
-
-h3{
-	font-family:"title1", Helvetica, Arial, sans-serif;
-}
-
-footer{
-	margin-top:3em;
-	padding-top:5em;
-	padding-bottom:2em;
-	background:$footer-background-color;
-	color:$light;
-
-	p{
-		line-height:1.8em;
-	}
-
-
-	strong{
-		color:$light;
-	}
-
-	a{
-		color:$couleur-princ;
-		&:hover{
-			color:$couleur-light;
-		}
-	}
-
-	.name-brand{
-		font-family:Times, "Times New Roman", Georgia, serif;
-		color:white;
-		text-transform:uppercase;
-		border-bottom : 1px solid $couleur-princ;
-		font-size:1.6em;
-	}
-
-	.credits{
-		margin-top:3em;
-		text-align:center;
-		width:100%;
-		color:$discret-sombre;
-		font-size:0.8em;
-		a{
-			color:$discret-sombre;
-		}
-		
-	}
+  p.title-part2 {
+    color: white;
+    font-size: 1.6em;
+    text-shadow: 1px 1px 2px black;
+  }
 }
 
-.bloc-pratique{
-	position:relative;
-	&:hover{
-		transform: scale(1.05,1.08);
-		transition-timing-function: ease-out;
-		transition-duration: 250ms;
-	}
-
-	img.publication-image{
-		height: 200px;
-		width:100%;
-		object-fit: cover;
-		
-	}
-
-
-	.bloc-texte{
-		position:absolute;
-		left: 50%;                        /* horizontal alignment */
-		top: 50%;                         /* vertical alignment */
-		transform: translate(-50%, -50%);
-		h3{
-			text-align:center;
-			font-size:2em;
-			color:$light;
-			text-shadow: 1px 1px 2px rgb(78, 78, 78);
-		}
-	}
-
-}
-.pratique-at{
-	background-image: url("../../img/pratique1.jpg");
-
-	/* Center and scale the image nicely */
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;	
+.portrait {
+  border-radius: 50%;
+  border: 3px solid #00d1b2;
+  max-height: 250px;
+  text-align: center;
 }
 
-.pratique-systemie{
-	background-image: url("../../img/pratique2.jpg");
+.section-citation {
+  .citation {
+    //font-family:"handwrite", Helvetica, Arial, sans-serif;
+    font-family: "Meow Script", serif;
+    font-size: 3.7em;
+    text-align: center;
+    &:before {
+      content: "\201C";
+      left: 0;
+      top: 0;
+    }
+    &:after {
+      content: "\201D";
+      right: 0;
+      bottom: 0;
+    }
+  }
 
+  .citation-auteur {
+    text-align: right;
+    font-size: 1.5em;
+  }
 
-	/* Center and scale the image nicely */
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;	
+  padding-top: 3em;
+  padding-bottom: 3em;
+  background: $bande-couleur-citation;
 }
 
-.pratique-corpo{
-	background-image: url("../../img/pratique3.jpg");
-
-	/* Center and scale the image nicely */
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;	
+h2 {
+  font-size: 2em;
+  font-family: "title1", Helvetica, Arial, sans-serif;
 }
 
-
-.seeall{
-	text-align:right;
-	width:100%;
+h3 {
+  font-family: "title1", Helvetica, Arial, sans-serif;
 }
 
-.publication{
-	&:hover{
-		transform: scale(1.05,1.06);
-		transition-timing-function: ease-out;
-		transition-duration: 250ms;
-	}
+footer {
+  margin-top: 3em;
+  padding-top: 5em;
+  padding-bottom: 2em;
+  background: $footer-background-color;
+  color: $light;
 
+  p {
+    line-height: 1.8em;
+  }
 
-	border:1px solid $couleur-princ;
-	
-	.publication-image{
-		height:250px;
-		width:100%;
+  strong {
+    color: $light;
+  }
 
-		img { 
-			height: 250px;
-			width:100%;
-			object-fit: cover;
-		}
+  a {
+    color: $couleur-princ;
+    &:hover {
+      color: $couleur-light;
+    }
+  }
 
-	}
+  .name-brand {
+    font-family: Times, "Times New Roman", Georgia, serif;
+    color: white;
+    text-transform: uppercase;
+    border-bottom: 1px solid $couleur-princ;
+    font-size: 1.6em;
+  }
 
-	.publication-titre{
-		z-index:1;
-		background-color:$light;
-		padding:1em;
-		width:100%;
-	}
+  .credits {
+    margin-top: 3em;
+    text-align: center;
+    width: 100%;
+    color: $discret-sombre;
+    font-size: 0.8em;
+    a {
+      color: $discret-sombre;
+    }
+  }
 }
 
+.bloc-pratique {
+  position: relative;
+  &:hover {
+    transform: scale(1.05, 1.08);
+    transition-timing-function: ease-out;
+    transition-duration: 250ms;
+  }
 
-a{
-	//text-decoration:underline;
-	color:$couleur-princ;
+  img.publication-image {
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+  }
+
+  .bloc-texte {
+    position: absolute;
+    left: 50%; /* horizontal alignment */
+    top: 50%; /* vertical alignment */
+    transform: translate(-50%, -50%);
+    h3 {
+      text-align: center;
+      font-size: 2em;
+      color: $light;
+      text-shadow: 1px 1px 2px rgb(78, 78, 78);
+    }
+  }
+}
+.pratique-at {
+  background-image: url("../../img/pratique1.jpg");
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
+.pratique-systemie {
+  background-image: url("../../img/pratique2.jpg");
 
-.list-items{
-	margin-top:2em;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
-.text-article{
-	img{
-		padding-top:0.7em;
-		padding-bottom:0.7em;
-		text-align:center;
-		display:block;
-		margin: 0 auto;
-	}
-	h2{
-		margin-top:1.4em;
-	}
+.pratique-corpo {
+  background-image: url("../../img/pratique3.jpg");
 
-	p{
-		margin-bottom:1em;
-	}
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
-	ul,ol{
-		margin-top:1em;
-		margin-bottom:1em;
-	}
+.seeall {
+  text-align: right;
+  width: 100%;
+}
 
-	ul{
-		li{
-			margin-left:1em;
-			list-style-type:square;
-		}
-	}
+.publication {
+  &:hover {
+    transform: scale(1.05, 1.06);
+    transition-timing-function: ease-out;
+    transition-duration: 250ms;
+  }
 
-	ol{
-		li{
-			margin-left:1em;
-		}
-	}
+  border: 1px solid $couleur-princ;
 
-	h3{
-		margin-top:1.2em;
-	}
+  .publication-image {
+    height: 250px;
+    width: 100%;
 
-	a{
-		text-decoration:underline;
-		&:hover{
-			color:$couleur-princ-hover;
-		}
-	}
+    img {
+      height: 250px;
+      width: 100%;
+      object-fit: cover;
+    }
+  }
 
-	blockquote{
-		border-left:$couleur-princ 3px solid;
-		font-style:italic;
-		margin-top:1em;
-		margin-bottom:1em;
-		padding-left:0.6em;
-		font-size:2em;
-		color:#757575;
-		p{
-			&:before {content:"\201C"; left:0; top:0;}
-			&:after {content:"\201D"; right:0; bottom:0;}
-		}
+  .publication-titre {
+    z-index: 1;
+    background-color: $light;
+    padding: 1em;
+    width: 100%;
+  }
+}
 
-	}
+a {
+  //text-decoration:underline;
+  color: $couleur-princ;
+}
+
+.list-items {
+  margin-top: 2em;
+}
+
+.text-article {
+  img {
+    padding-top: 0.7em;
+    padding-bottom: 0.7em;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+  }
+  h2 {
+    margin-top: 1.4em;
+  }
+
+  p {
+    margin-bottom: 1em;
+  }
+
+  ul,
+  ol {
+    margin-top: 1em;
+    margin-bottom: 1em;
+  }
+
+  ul {
+    li {
+      margin-left: 1em;
+      list-style-type: square;
+    }
+  }
+
+  ol {
+    li {
+      margin-left: 1em;
+    }
+  }
+
+  h3 {
+    margin-top: 1.2em;
+  }
+
+  a {
+    text-decoration: underline;
+    &:hover {
+      color: $couleur-princ-hover;
+    }
+  }
+
+  blockquote {
+    border-left: $couleur-princ 3px solid;
+    font-style: italic;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding-left: 0.6em;
+    font-size: 2em;
+    color: #757575;
+    p {
+      &:before {
+        content: "\201C";
+        left: 0;
+        top: 0;
+      }
+      &:after {
+        content: "\201D";
+        right: 0;
+        bottom: 0;
+      }
+    }
+  }
 }
