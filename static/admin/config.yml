@@ -1,0 +1,214 @@
+backend:
+  name: git-gateway
+  branch: master
+local_backend: true
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: dpjfqut00
+    api_key: 393361889636435
+collections:
+  - name: "config"
+    label: "Configuration du site"
+    files:
+      - name: "infos"
+        label: "Infos du site"
+        file: "data/paramsite.json"
+        fields:
+          - name: "title"
+            label: "Titre"
+            widget: "string"
+          - name: "author"
+            label: "Auteur"
+            widget: "string"
+          - name: "lang"
+            label: "Langue du site"
+            widget: "string"
+          - name: "subtitle"
+            label: "Sous titre 1"
+            widget: "string"
+          - name: "subtitle2"
+            label: "Sous titre 2"
+            widget: "string"
+          - name: "citationHome"
+            label: "Citation"
+            widget: "string"
+          - name: "location"
+            label: "Adresse"
+            widget: "string"
+          - name: "latitude"
+            label: "Latitude GPS"
+            widget: "string"
+          - name: "longitude"
+            label: "Longitude GPS"
+            widget: "string"
+          - name: "mail"
+            label: "Adresse mail"
+            widget: "string"
+          - name: "phone"
+            label: "Téléphone"
+            widget: "string"
+          - name: "siret"
+            label: "Numéro de SIRET"
+            widget: "string"
+          - name: "bloc_horaires_title1"
+            label: "Bloc horaire titre 1"
+            widget: "string"
+          - name: "bloc_horaires_content1"
+            label: "Bloc horaire 1"
+            widget: "markdown"
+          - name: "bloc_horaires_title2"
+            label: "Bloc horaire titre 2"
+            widget: "string"
+          - name: "bloc_horaires_content2"
+            label: "Bloc horaire 2"
+            widget: "markdown"
+          - name: "bloc_horaires_title3"
+            label: "Bloc horaire titre 3"
+            widget: "string"
+          - name: "bloc_horaires_content3"
+            label: "Bloc horaire 3"
+            widget: "markdown"
+          - name: "home_title_articles"
+            label: "Langue du site"
+            widget: "string"
+          - name: "analytics"
+            label: "Google Analytics"
+            widget: "string"
+          - name: "mapboxkey"
+            label: "mapboxkey"
+            widget: "string"
+          - name: "baseUrlImage"
+            label: "baseUrlImage"
+            widget: "string"
+  - name: "pages" # Used in routes, e.g., /admin/collections/blog
+    label: "Pages" # Used in the UI
+    folder: "content" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - {
+          label: "Date",
+          name: "date",
+          widget: "datetime",
+          value_type: "dd/MM/yyyy",
+          hint: "Date de création",
+        }
+      - {
+          label: "Titre",
+          name: "title",
+          widget: "string",
+          hint: "Titre long du document",
+        }
+      - {
+          label: "Logo de l'article",
+          name: "logo",
+          widget: "image",
+          hint: "Image qui présentera le document (avec la vignette)",
+        }
+      - {
+          label: "Description",
+          name: "description",
+          widget: "markdown",
+          required: false,
+          hint: "Résumé de la page",
+        }
+      - {
+          label: "Notes de bas de page",
+          name: "notes",
+          widget: "markdown",
+          required: false,
+          hint: "Anotation de bas de page",
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "articles" # Used in routes, e.g., /admin/collections/blog
+    label: "Articles" # Used in the UI
+    folder: "content/publications" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - {
+          label: "Date",
+          name: "date",
+          widget: "datetime",
+          value_type: "dd/MM/yyyy",
+          hint: "Date de création",
+        }
+      - {
+          label: "Titre",
+          name: "title",
+          widget: "string",
+          hint: "Titre court du document",
+        }
+      - {
+          label: "Titre long",
+          name: "longtTtitle",
+          widget: "string",
+          hint: "Titre long du document",
+          required: false,
+        }
+      - {
+          label: "Logo de l'article",
+          name: "logo",
+          widget: "image",
+          hint: "Image qui présentera le document (avec la vignette)",
+        }
+      - {
+          label: "Description",
+          name: "description",
+          widget: "markdown",
+          required: false,
+          hint: "Résumé de la page",
+        }
+      - {
+          label: "Notes de bas de page",
+          name: "notes",
+          widget: "markdown",
+          required: false,
+          hint: "Anotation de bas de page",
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "home" # Used in routes, e.g., /admin/collections/blog
+    label: "Page d'accueil" # Used in the UI
+    folder: "content/home" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - {
+          label: "Date",
+          name: "date",
+          widget: "datetime",
+          value_type: "dd/MM/yyyy",
+          hint: "Date de création",
+        }
+      - {
+          label: "Titre",
+          name: "title",
+          widget: "string",
+          hint: "Titre court du document",
+        }
+      - {
+          label: "Titre long",
+          name: "longtTtitle",
+          widget: "string",
+          hint: "Titre long du document",
+          required: false,
+        }
+      - {
+          label: "Logo de l'article",
+          name: "logo",
+          widget: "image",
+          hint: "Image qui présentera le document (avec la vignette)",
+        }
+      - {
+          label: "Description",
+          name: "description",
+          widget: "markdown",
+          required: false,
+          hint: "Résumé de la page",
+        }
+      - {
+          label: "Notes de bas de page",
+          name: "notes",
+          widget: "markdown",
+          required: false,
+          hint: "Anotation de bas de page",
+        }
+      - { label: "Body", name: "body", widget: "markdown" }

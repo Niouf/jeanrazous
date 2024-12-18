@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on </title>
+    <link>http://localhost:1313/home/</link>
+    <description>Recent content in Homes on </description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Tue, 18 Dec 2018 13:26:42 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Psychothérapie corporelle</title>
+      <link>http://localhost:1313/home/psychoth%C3%A9rapie-corporelle/</link>
+      <pubDate>Tue, 18 Dec 2018 13:26:42 +0000</pubDate>
+      <guid>http://localhost:1313/home/psychoth%C3%A9rapie-corporelle/</guid>
+      <description>&lt;p&gt;L&amp;rsquo;idée reçue : la psychothérapie corporelle c&amp;rsquo;est quand le thérapeute touche le patient&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Je considère que le psychothérapeute travaille plus avec  son propre corps qu&amp;rsquo;avec celui de son patient. En revanche mon expérience m&amp;rsquo;a montré que ce que je vis dans mon propre corps peut être une porte d&amp;rsquo;entrée pour comprendre ce que vit le patient dans son corps. C&amp;rsquo;est ensuite que la décision de toucher son patient peut être prise, pour s&amp;rsquo;assurer que le geste sera thérapeutique au mieux.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Systémie</title>
+      <link>http://localhost:1313/home/syst%C3%A9mie/</link>
+      <pubDate>Tue, 18 Dec 2018 13:25:26 +0000</pubDate>
+      <guid>http://localhost:1313/home/syst%C3%A9mie/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Penser système est un apprentissage. C’est souvent contre-intuitif à un premier niveau, mais très logique à un niveau plus élargi. C’est souvent après coup que cela devient évident&amp;hellip;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Exemple 1 ; Tous les motards savent que pour effectuer un virage à gauche il faut contre-braquer, c’est à dire donner à sa poignée gauche un mouvement&amp;hellip;vers la droite. Curieux non? Le motard qui ne connaît pas cela se met en danger dans les virages. Mais cela ne marche que si la moto a un minimum de vitesse, pas au démarrage. Autrement dit cela ne fonctionne pas à un instant «t» mais sur &lt;strong&gt;une certaine durée&lt;/strong&gt;, durée pendant lesquelles différentes forces viennent se compenser en fonction de rétroactions complexes. On prend en compte le sytème complet moto, motard, asphalte, vitesse, trajectoire, direction, déséquilibres successifs compensés, lois de la gravité et de la physique en général etc. Pour garder l’équilibre et atteindre son objectif, ce système complet doit constamment rétroagir par rapport à son environnement.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Analyse Transactionnelle</title>
+      <link>http://localhost:1313/home/analyse-transactionnelle-1/</link>
+      <pubDate>Tue, 18 Dec 2018 14:22:27 +0100</pubDate>
+      <guid>http://localhost:1313/home/analyse-transactionnelle-1/</guid>
+      <description>&lt;p&gt;L’analyse transactionnelle (AT) a été fondée il y a plus de soixante ans par Eric Berne,  un psychiatre canadien. Elle a démontré son efficacité dans des  domaines aussi variés que la psychothérapie, le coaching, l’éducation  ou le conseil,  des lieux aussi divers que les cabinets de consultation, les entreprises, les salles de classe et les hôpitaux, et des professions aussi différentes que psychothérapeutes, managers, enseignants ou infirmières.&lt;/p&gt;&#xA;&lt;p&gt;Le modèle de personnalité crée par Berne est basé sur les trois &lt;strong&gt;états du moi&lt;/strong&gt;  : Parent Adulte et Enfant (Voir &lt;strong&gt;Etats du moi&lt;/strong&gt;) qui communiquent avec les états du moi des autres personnes sous forme de &lt;strong&gt;transactions&lt;/strong&gt; (Voir &lt;strong&gt;Transactions&lt;/strong&gt;) .L’analyse de ces transactions permet de prédire quelle tournure va prendre la communication engagée.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
