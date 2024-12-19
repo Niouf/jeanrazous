@@ -104,6 +104,7 @@ collections:
           name: "logo",
           widget: "image",
           hint: "Image qui présentera le document (avec la vignette)",
+          required: false,
         }
       - {
           label: "Description",
@@ -150,6 +151,7 @@ collections:
           name: "logo",
           widget: "image",
           hint: "Image qui présentera le document (avec la vignette)",
+          required: false,
         }
       - {
           label: "Description",
@@ -196,6 +198,7 @@ collections:
           name: "logo",
           widget: "image",
           hint: "Image qui présentera le document (avec la vignette)",
+          required: false,
         }
       - {
           label: "Description",
