@@ -1,31 +1,27 @@
 <nav class="navbar is-light is-fixed-top">
-    <div class="container">
-        <div class="navbar-brand">
-          <a class="navbar-item titleSiteMenu" href=" {{ $.Site.BaseURL }}" style="font-weight:bold;">
-            {{ $.Site.Data.paramsite.title }}
-          </a>
-          <span class="navbar-burger burger" data-target="navMenu">
-            <span></span>
-            <span></span>
-            <span></span>
-          </span>
-        </div>
-        <div id="navMenu" class="navbar-menu">
-            <div class="navbar-end">
-                {{ $currentPage := . }}
-                {{ range .Site.Menus.main }}
-                    {{ if .HasChildren }}
-                        
-                        
-                    {{ else }}
-                        
-                            <a class='nav-link navbar-item navbar-item' href="{{ .URL | absURL }}">
-                                {{ .Name }}
-                            </a>
-                        
-                    {{ end }}
-                {{ end }}
-              </div>
-        </div>
+  <div class="container">
+    <div class="navbar-brand">
+      <a
+        class="navbar-item titleSiteMenu"
+        href=" {{ $.Site.BaseURL }}"
+        style="font-weight: bold"
+      >
+        {{ $.Site.Data.paramsite.title }}
+      </a>
+      <span class="navbar-burger burger" data-target="navMenu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </span>
     </div>
+    <div id="navMenu" class="navbar-menu">
+      <div class="navbar-end">
+        {{ range .Pages }} {{ if .Params.isMenu}}
+        <a class="nav-link navbar-item navbar-item" href="{{ .RelPermalink }}"
+          >{{ .LinkTitle }}</a
+        >
+        {{end}} {{ end }}
+      </div>
+    </div>
+  </div>
 </nav>

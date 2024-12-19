@@ -11,7 +11,7 @@
       <article>
         <header>
           <div class="top-article">
-            {{ $logo := len .Params.logo }} {{ if gt $logo 0 }}
+            {{ if .Params.logo }}
             <div class="logo-article">
               <img class="lazy" src='{{ "img/placeholder.png" | absURL }}'
               srcset="{{ replace .Params.logo "upload/" "upload/w_800/" }} 800w,
