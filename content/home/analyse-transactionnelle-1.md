@@ -1,12 +1,12 @@
-+++
-date = "2018-12-18T14:22:27+01:00"
-description = "L'analyse transactionnelle, appelée aussi AT, est une théorie de la personnalité, des rapports sociaux et de la communication. "
-logo = "/v1544799993/AVT2_Berne_9471.jpg"
-longtitle = ""
-notes = ""
-title = "Analyse Transactionnelle"
-
-+++
+---
+date: 2018-12-18T14:22:27+01:00
+title: Analyse Transactionnelle
+logo: https://res.cloudinary.com/dpjfqut00/image/upload/v1544799993/AVT2_Berne_9471.jpg
+description: "L'analyse transactionnelle, appelée aussi AT, est une théorie de
+  la personnalité, des rapports sociaux et de la communication. "
+longtitle: ""
+notes: ""
+---
 L’analyse transactionnelle (AT) a été fondée il y a plus de soixante ans par Eric Berne,  un psychiatre canadien. Elle a démontré son efficacité dans des  domaines aussi variés que la psychothérapie, le coaching, l’éducation  ou le conseil,  des lieux aussi divers que les cabinets de consultation, les entreprises, les salles de classe et les hôpitaux, et des professions aussi différentes que psychothérapeutes, managers, enseignants ou infirmières.
 
 Le modèle de personnalité crée par Berne est basé sur les trois **états du moi**  : Parent Adulte et Enfant (Voir **Etats du moi**) qui communiquent avec les états du moi des autres personnes sous forme de **transactions** (Voir **Transactions**) .L’analyse de ces transactions permet de prédire quelle tournure va prendre la communication engagée. 
