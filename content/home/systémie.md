@@ -1,12 +1,12 @@
-+++
-date = 2018-12-18T13:25:26Z
-description = "Quelques (modestes) repères pratiques pour penser système\n"
-logo = "/v1544801898/sam-erwin-474207-unsplash.jpg"
-longtitle = "Approche Systémique"
-notes = ""
-title = "Systémie"
-
-+++
+---
+date: 2018-12-18T13:25:26.000Z
+title: Systémie
+logo: https://res.cloudinary.com/dpjfqut00/image/upload/v1544801898/sam-erwin-474207-unsplash.jpg
+description: |
+  Quelques (modestes) repères pratiques pour penser système
+longtitle: Approche Systémique
+notes: ""
+---
 **Introduction**
 
 _Penser système est un apprentissage. C’est souvent contre-intuitif à un premier niveau, mais très logique à un niveau plus élargi. C’est souvent après coup que cela devient évident..._
