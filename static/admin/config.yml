@@ -121,6 +121,13 @@ collections:
           hint: "Anotation de bas de page",
         }
       - { label: "Body", name: "body", widget: "markdown" }
+      - {
+          label: "Fait parti du menu ?",
+          name: "isMenu",
+          widget: "boolean",
+          required: false,
+          hint: "Fait parti du menu de haut de page",
+        }
   - name: "articles" # Used in routes, e.g., /admin/collections/blog
     label: "Articles" # Used in the UI
     folder: "content/publications" # The path to the folder where the documents are stored
@@ -168,6 +175,13 @@ collections:
           hint: "Anotation de bas de page",
         }
       - { label: "Body", name: "body", widget: "markdown" }
+      - {
+          label: "Fait parti du menu ?",
+          name: "isMenu",
+          widget: "boolean",
+          required: false,
+          hint: "Fait parti du menu de haut de page",
+        }
   - name: "home" # Used in routes, e.g., /admin/collections/blog
     label: "Page d'accueil" # Used in the UI
     folder: "content/home" # The path to the folder where the documents are stored
@@ -215,3 +229,10 @@ collections:
           hint: "Anotation de bas de page",
         }
       - { label: "Body", name: "body", widget: "markdown" }
+      - {
+          label: "Fait parti du menu ?",
+          name: "isMenu",
+          widget: "boolean",
+          required: false,
+          hint: "Fait parti du menu de haut de page",
+        }
