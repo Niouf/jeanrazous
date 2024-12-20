@@ -18,69 +18,90 @@ collections:
           - name: "title"
             label: "Titre"
             widget: "string"
+            required: false
           - name: "author"
             label: "Auteur"
             widget: "string"
+            required: false
           - name: "lang"
             label: "Langue du site"
             widget: "string"
           - name: "subtitle"
             label: "Sous titre 1"
             widget: "string"
+            required: false
           - name: "subtitle2"
             label: "Sous titre 2"
             widget: "string"
+            required: false
           - name: "citationHome"
             label: "Citation"
             widget: "string"
+            required: false
           - name: "location"
             label: "Adresse"
             widget: "string"
+            required: false
           - name: "latitude"
             label: "Latitude GPS"
             widget: "string"
+            required: false
           - name: "longitude"
             label: "Longitude GPS"
             widget: "string"
+            required: false
           - name: "mail"
             label: "Adresse mail"
             widget: "string"
+            required: false
           - name: "phone"
             label: "Téléphone"
             widget: "string"
+            required: false
           - name: "siret"
             label: "Numéro de SIRET"
             widget: "string"
+            required: false
           - name: "bloc_horaires_title1"
             label: "Bloc horaire titre 1"
             widget: "string"
+            required: false
           - name: "bloc_horaires_content1"
             label: "Bloc horaire 1"
             widget: "markdown"
+            required: false
           - name: "bloc_horaires_title2"
             label: "Bloc horaire titre 2"
             widget: "string"
+            required: false
           - name: "bloc_horaires_content2"
             label: "Bloc horaire 2"
             widget: "markdown"
+            required: false
           - name: "bloc_horaires_title3"
             label: "Bloc horaire titre 3"
             widget: "string"
+            required: false
           - name: "bloc_horaires_content3"
             label: "Bloc horaire 3"
             widget: "markdown"
+            required: false
           - name: "home_title_articles"
             label: "Langue du site"
             widget: "string"
+            required: false
           - name: "analytics"
             label: "Google Analytics"
             widget: "string"
+            required: false
           - name: "mapboxkey"
             label: "mapboxkey"
             widget: "string"
+            required: false
           - name: "baseUrlImage"
             label: "baseUrlImage"
             widget: "string"
+            required: false
   - name: "pages" # Used in routes, e.g., /admin/collections/blog
     label: "Pages" # Used in the UI
     folder: "content" # The path to the folder where the documents are stored
@@ -98,6 +119,7 @@ collections:
           name: "title",
           widget: "string",
           hint: "Titre long du document",
+          required: false,
         }
       - {
           label: "Logo de l'article",
@@ -120,7 +142,7 @@ collections:
           required: false,
           hint: "Anotation de bas de page",
         }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
       - {
           label: "Fait parti du menu ?",
           name: "isMenu",
@@ -199,6 +221,7 @@ collections:
           name: "title",
           widget: "string",
           hint: "Titre court du document",
+          required: false,
         }
       - {
           label: "Titre long",
@@ -228,7 +251,7 @@ collections:
           required: false,
           hint: "Anotation de bas de page",
         }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
       - {
           label: "Fait parti du menu ?",
           name: "isMenu",
