@@ -2,7 +2,7 @@
 date: 2025-01-09T15:31:00.000Z
 title: BLOG
 logo: https://res.cloudinary.com/dpjfqut00/image/upload/v1544862622/jonas-vincent-2717-unsplash.jpg
-isMenu: false
+isMenu: true
 ---
 Louise. Il y a six mois. Elle est assise en pleurs en face de moi. Depuis plusieurs minutes elle me dit que de toute façon elle n’y arrivera jamais et qu’elle ne voit pas ce qui pourra l’aider à «trouver sa place» dans le monde. Pas d’espoir. Et les souvenirs qui confirment sa croyance refont surface. Je l’écoute, je me laisse ressentir. Ce n’est pas facile pour moi. Je ne tente pas de la rassurer en lui prenant la main. Je ne dis rien, je ne fais rien, je ne saurais pas quoi dire ou faire. La séance n’est pas finie. J’ai besoin d’un peu de temps...
 
