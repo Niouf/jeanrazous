@@ -2,10 +2,10 @@
 date: 2018-12-18T13:15:07.000Z
 title: Qui suis-je ?
 logo: ""
-description: Je pratique la psychothérapie en cabinet libéral à Lyon depuis 15
-  ans. Je suis Analyste Transactionnel certifié (CTA-P). Analyse
-  transactionnelle, pensée systémique, approche psychocorporelle, thérapie
-  narrative ou approche orientée solution constituent la base de cette pratique.
+description: Je pratique la psychothérapie depuis 15 ans. Je suis Analyste
+  Transactionnel certifié (CTA-P). Analyse transactionnelle, pensée systémique,
+  approche psychocorporelle, thérapie narrative ou approche orientée solution
+  constituent la base de cette pratique.
 notes: ""
 isMenu: true
 order: 2
