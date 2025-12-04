@@ -7,9 +7,9 @@ description: >-
   Cet article publié dans un recueil de textes concernant la thérapie de couple
   (La thérapie de couple : 11 études de cas,éditions in press, 2019) se centre
   sur le dispositif de coanimation que nous avons mis en place avec ma collègue
-  Karine Renou.\
+  Karine Renou à Lyon. \
 
-  Dans cet article, nous expliquons, à l'aide d'exemples concrets, comment ce dispositif nous aide à accompagner les couples que nous recevons.
+  Dans cet article, nous expliquons, à l'aide d'exemples concrets, comment ce dispositif nous aide à accompagner les couples que nous recevons. Notre collaboration s'est arrêtée en 2024 avec mon changement de cabinet à Yverdon-les-Bains. Pour information je reçois seul maintenant les couples à Yverdon-les-Bains.
 notes: ""
 ---
 
